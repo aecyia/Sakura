@@ -10,8 +10,9 @@ It is mainly based on my personal preferences, but suggestions are welcome.
 
 ## Installation
 
-01. Download the .ZIP file from the latest [release](https://github.com/aecyia/Sakura/releases)
-02. Unzip the file
+01. Go to [releases](https://github.com/aecyia/Sakura/releases)
+02. Download the .ZIP file OR the .PACKAGE file
+	+ Unzip the .ZIP if you chose that
 03. Move the extracted file to where your mods are
 	+ Documents\Electronic Arts\The Sims 3\Mods\Packages
 04. Play + Enjoy
