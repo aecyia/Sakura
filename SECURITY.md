@@ -4,7 +4,7 @@
 
 ## Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.0.0   | :white_check_mark: |
-| 0.0.1   | PLANNED            |
+| Version |     Supported      |
+| :-----: | :----------------: |
+|  0.0.0  | :white_check_mark: |
+|  0.0.1  |    IN PROGRESS     |
