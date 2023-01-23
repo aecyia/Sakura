@@ -19,11 +19,11 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 
 1. Downloads Tab
 2. Download the latest version - v0.0.1
-3. Unzip the .ZIP file
+3. Unzip Sakura_v0.0.1.zip
 4. Move to "Documents\Electronic Arts\The Sims 3\Mods\"
-	+ In Overrides OR Packages
-5. Play + Enjoy ♡
-6. Report any issues
+5. Can be placed in Overrides OR Packages
+6. Play + Enjoy ♡
+7. Report any issues
 
 ## Conflicts
 
