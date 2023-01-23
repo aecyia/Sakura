@@ -14,7 +14,7 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 
 ## Installation
 
-1. Go to [Releases](https://github.com/aecyia/Sakura/releases)
+1. Go to [Releases](https://github.com/aecyia/Sakura/releases) -- Instructions are there too ♡
 2. Download Sakura.package
 3. Move to "Documents\Electronic Arts\The Sims 3\Mods\"
 4. Place in Overrides OR Packages
