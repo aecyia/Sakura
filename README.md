@@ -34,7 +34,6 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + Some Icons
 + Many many more
 
-
 ## What it doesn't change . . . yet
 
 + Memories Scrapbook
