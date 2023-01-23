@@ -54,6 +54,6 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 ## ♡
 
 + Original Tumblr Post -- [here](https://www.tumblr.com/astraace/695785491609632768/sakura?source=share)
-+ Full List of Screenshots [here](---)
++ Full List of Screenshots [here](https://github.com/aecyia/Sakura/discussions/14)
 
 aecyia ♡ Sakura ♡ 2023
