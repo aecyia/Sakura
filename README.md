@@ -23,7 +23,7 @@ It is mainly based on my personal preferences, but suggestions are welcome.
 
 ## What it changes / will change
 
-+ Most in-game UI assets that were blue
++ Most UI & HUD assets that were blue
 + CAS, CAP, Build Buy Modes
 + Some Icons
 + Many many more
