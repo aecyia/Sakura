@@ -8,7 +8,8 @@ assignees: ''
 ---
 
 + describe the issue
-+ where it is
++ where it is located
 + additional context
++ which version ?
 + possible suggestions
 + include a screenshot
