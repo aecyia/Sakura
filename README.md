@@ -14,12 +14,13 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 
 ## Installation
 
-1. Go to [Releases](https://github.com/aecyia/Sakura/releases) -- Instructions are there too ♡
-2. Download Sakura.package
-3. Move to "Documents\Electronic Arts\The Sims 3\Mods\"
-4. Place in Overrides OR Packages
-5. Play + Enjoy ♡
-6. Report any issues [here](https://github.com/aecyia/Sakura/issues)
+1. Set up your Mods Folder via [this guide](https://modthesims.info/wiki.php?title=Game_Help:Installing_Sims_3_Package_Files/Setup_and_Files)
+2. Go to [Releases](https://github.com/aecyia/Sakura/releases) -- Instructions are there too ♡
+3. Download Sakura.package
+4. Move to "Documents\Electronic Arts\The Sims 3\Mods\"
+5. Place in Overrides OR Packages
+6. Play + Enjoy ♡
+7. Report any issues [here](https://github.com/aecyia/Sakura/issues)
 
 ## Conflicts
 
