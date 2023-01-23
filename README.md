@@ -10,6 +10,8 @@ This project aims to recolour the UI, redesign icons, and more
 
 It is mainly based on my personal preferences, but suggestions are welcome ♡
 
+![sakura](https://user-images.githubusercontent.com/57078659/214094736-689dcf19-3656-422e-b885-8bba937149a4.png)
+
 ## Installation
 
 1. Choose a version
