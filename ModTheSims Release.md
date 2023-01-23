@@ -50,6 +50,6 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + I use GITHUB to store my changes and monitor any issues
 + Please consider reporting any issues [via Github](https://github.com/aecyia/Sakura/issues) since I do not use MTS as often
 + Official Link -- https://github.com/aecyia/Sakura
-+ Full List of Screenshots [here](---)
++ Full List of Screenshots [here](https://github.com/aecyia/Sakura/discussions/14))
 
 aecyia ♡ Sakura ♡ 2023
