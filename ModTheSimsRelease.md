@@ -2,6 +2,7 @@
 
 + Title -- Sakura - A UI Recolor
 + Author -- [aecyia](https://modthesims.info/m/10250827)
++ Official Link -- TBD
 + Category -- Game Mods >> Overrides >> Other
 + Tags -- #Sakura, #Pink, #PinkAesthetic, #Pink UI, #UI, #UI Recolor, #UI Recolour, #Recolor, #Recolour, #User Interface
 
@@ -50,6 +51,6 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + I use GITHUB to store my changes and monitor any issues
 + Please consider reporting any issues [via Github](https://github.com/aecyia/Sakura/issues) since I do not use MTS as often
 + Official Link -- https://github.com/aecyia/Sakura
-+ Full List of Screenshots [here](https://github.com/aecyia/Sakura/discussions/14))
++ Full List of Screenshots [here](https://github.com/aecyia/Sakura/discussions/14)
 
 aecyia ♡ Sakura ♡ 2023
