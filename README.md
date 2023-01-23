@@ -10,17 +10,17 @@ It is mainly based on my personal preferences, but suggestions are welcome.
 
 ## Installation
 
-01. Go to [releases](https://github.com/aecyia/Sakura/releases)
+1. Choose a version
 	+ The latest released version is -- [v0.0.1](https://github.com/aecyia/Sakura/releases/tag/v0.0.1)
-02. Download the .ZIP file OR the .PACKAGE file
+	+ The next release is v0.0.2, which can be found [here](https://github.com/aecyia/Sakura/tree/v0.0.2)
+		+ This is the currently-worked-on version
+		+ Current Pull Request [here](https://github.com/aecyia/Sakura/pull/13)
+2. Download the .ZIP file OR the .PACKAGE file
 	+ Unzip the .ZIP if you chose that option
-03. The next release is v0.0.2, which can be found [here](https://github.com/aecyia/Sakura/tree/v0.0.2)
-	+ This is the currently-worked-on version
-	+ Current Pull Request [here](https://github.com/aecyia/Sakura/pull/3)
-04. Move the extracted file to where your mods are
+3. Move the extracted file to where your mods are
 	+ Documents\Electronic Arts\The Sims 3\Mods\Packages
-05. Play + Enjoy ♡
-06. Report any issues [here](https://github.com/aecyia/Sakura/issues)
+4. Play + Enjoy ♡
+5. Report any issues [here](https://github.com/aecyia/Sakura/issues)
 
 ## Conflicts
 
