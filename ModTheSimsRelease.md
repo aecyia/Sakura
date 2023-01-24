@@ -44,7 +44,12 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + Memories Scrapbook
 + World Adventures Journal
 + Map Tags
-+ Certain popups
++ SimPort
++ etc.
+
+## Known Issues
+
++ Full List of current issues [here](https://github.com/aecyia/Sakura/issues)
 
 ## ♡
 
