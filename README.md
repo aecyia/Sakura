@@ -32,21 +32,23 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 
 + Most UI assets that were blue
 + CAS, CAP, Build Buy Modes
-+ Some Icons
 + Memories Scrapbook
 + World Adventures Journal
++ Some Icons
 + Many many more
 
 ## What it doesn't change . . . yet
 
 + Map Tags
++ SimPort
 + Certain popups such as competitions
++ etc.
 
 ## ♡
 
 + Aesthetic -- MAIN Pink, Blue, Purple, Green
 + Original Tumblr Post -- [here](https://www.tumblr.com/astraace/695785491609632768/sakura?source=share)
-+ Want more screenshots ? View [this discussion](https://github.com/aecyia/Sakura/discussions/14)
++ More screenshots in [this discussion](https://github.com/aecyia/Sakura/discussions/14)
 + ModTheSims upload [submission](https://modthesims.info/d/673792)
 
 aecyia ♡ Sakura ♡ 2023
