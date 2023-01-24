@@ -41,8 +41,6 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + World Adventures Journal
 + Map Tags
 + Certain popups
-+ Memories Scrapbook
-+ World Adventures Journal
 
 ## ♡
 
