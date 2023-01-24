@@ -33,14 +33,14 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + Most UI assets that were blue
 + CAS, CAP, Build Buy Modes
 + Some Icons
++ Memories Scrapbook
++ World Adventures Journal
 + Many many more
 
 ## What it doesn't change . . . yet
 
-+ Memories Scrapbook
-+ World Adventures Journal
 + Map Tags
-+ Certain popups
++ Certain popups such as competitions
 
 ## ♡
 
