@@ -1,4 +1,4 @@
-# ModTheSims Release
+# Staged for MTS Release
 
 + Title -- Sakura - A UI Recolor
 + Author -- [aecyia](https://modthesims.info/m/10250827)
