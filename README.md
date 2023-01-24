@@ -45,5 +45,7 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 ## ♡
 
 + Original Tumblr Post -- [here](https://www.tumblr.com/astraace/695785491609632768/sakura?source=share)
++ Want more screenshots ? View [this discussion](https://github.com/aecyia/Sakura/discussions/14)
++ Aesthetic -- MAIN Pink, Blue, Purple, Green
 
 aecyia ♡ Sakura ♡ 2023
