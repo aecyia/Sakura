@@ -28,7 +28,7 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + Any other mod that changes the UI image assets
 + If you have other mod packages that changes the assets, prioritize via Resource.cfg in your Mods folder
 
-## What it changes / will change
+## What it changes / will change in v0.0.2
 
 + Most UI assets that were blue
 + CAS, CAP, Build Buy Modes
@@ -41,14 +41,15 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 
 + Map Tags
 + SimPort
-+ Certain popups such as competitions
-+ etc.
++ Competitions
++ CAS, CAP Room Background Screen
++ Have an idea / suggestion? Send feedback [here](https://github.com/aecyia/Sakura/issues) via a feature request ♡
 
 ## ♡
 
-+ Aesthetic -- MAIN Pink, Blue, Purple, Green
-+ Original Tumblr Post -- [here](https://www.tumblr.com/astraace/695785491609632768/sakura?source=share)
++ Aesthetic -- Pink > Blue > Purple > Green
++ Original tumblr [post](https://www.tumblr.com/astraace/695785491609632768/sakura?source=share)
 + More screenshots in [this discussion](https://github.com/aecyia/Sakura/discussions/14)
-+ ModTheSims upload [submission](https://modthesims.info/d/673792)
++ ModTheSims upload [submission](https://modthesims.info/d/673792) -- NOT LIVE YET
 
 aecyia ♡ Sakura ♡ 2023
