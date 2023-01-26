@@ -43,7 +43,7 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + SimPort
 + Competitions
 + CAS, CAP Room Background Screen
-+ Have an idea / suggestion? Send feedback [here](https://github.com/aecyia/Sakura/issues) via a feature request ♡
++ Have an idea / suggestion? Send feedback [here](https://github.com/aecyia/Sakura/issues/new/choose) via a feature request ♡
 
 ## ♡
 
