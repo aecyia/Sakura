@@ -11,5 +11,5 @@
 | [0.0.0](https://github.com/aecyia/Sakura/releases/tag/v0.0.0) | :white_check_mark: | 01-08-23 |          Mostly all pink           |
 | [0.0.1](https://github.com/aecyia/Sakura/releases/tag/v0.0.1) | :white_check_mark: | 01-23-23 |   Fixed accidental pinks & etc.    |
 | [0.0.2](https://github.com/aecyia/Sakura/releases/tag/v0.0.2) | :white_check_mark: | 01-24-23 | Scrapbook, Adventure Journal, etc. |
-| [0.0.3](https://github.com/aecyia/Sakura/releases/tag/v0.0.3) |    IN PROGRESS     | FEB 2023 |                ---                 |
+| [0.0.3](https://github.com/aecyia/Sakura/releases/tag/v0.0.3) |    IN PROGRESS     | FEB 2023 |     Smaller File Size, & etc.      |
 | [0.0.4](https://github.com/aecyia/Sakura/releases/tag/v0.0.4) |      PLANNED       |   ---    |                ---                 |
