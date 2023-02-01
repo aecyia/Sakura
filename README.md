@@ -28,7 +28,7 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + Any other mod that changes the UI image assets
 + If you have other mod packages that changes the assets, prioritize via Resource.cfg in your Mods folder
 
-## What it changes / will change in v0.0.2
+## What it changes / will change in v0.0.3
 
 + Most UI assets that were blue
 + CAS, CAP, Build Buy Modes
