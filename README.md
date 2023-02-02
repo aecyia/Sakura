@@ -28,28 +28,32 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + Any other mod that changes the UI image assets
 + If you have other mod packages that changes the assets, prioritize via Resource.cfg in your Mods folder
 
-## What it changes / will change in v0.0.3
+## What Sakura changes / will change
 
 + Most UI assets that were blue
-+ CAS, CAP, Build Buy Modes
++ Celebrity Journal
++ Create A Household Mode
++ Build + Buy Modes
 + Memories Scrapbook
++ Player Profile and Wall
++ Time Almanac
 + World Adventures Journal
-+ Some Icons
++ Some Icons (Social Group Influences)
 + Many many more
 
-## What it doesn't change . . . yet
+## What Sakura doesn't change . . . yet
 
 + Map Tags
 + SimPort
 + Competitions
-+ CAS, CAP Room Background Screen
++ Create A Household Room Background
 + Have an idea / suggestion? Send feedback [here](https://github.com/aecyia/Sakura/issues/new/choose) via a feature request ♡
 
 ## ♡
 
 + Aesthetic -- Pink > Blue > Purple > Green
 + Original tumblr [post](https://www.tumblr.com/astraace/695785491609632768/sakura?source=share)
-+ More screenshots in [this discussion](https://github.com/aecyia/Sakura/discussions/14)
++ More screenshots in [this discussion](https://github.com/aecyia/Sakura/discussions/categories/show-and-tell)
 + ModTheSims upload [submission](https://modthesims.info/d/673792)
 
 aecyia ♡ Sakura ♡ 2023
