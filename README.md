@@ -38,7 +38,7 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + Player Profile and Wall
 + Time Almanac
 + World Adventures Journal
-+ Some Icons (Social Group Influences)
++ Some Icons
 + Many many more
 
 ## What Sakura doesn't change . . . yet
