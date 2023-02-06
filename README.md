@@ -43,17 +43,19 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 
 ## What Sakura doesn't change . . . yet
 
-+ Map Tags
-+ SimPort
 + Competitions
 + Create A Household Room Background
++ Map Tags
++ SimPort
++ Tutorials
++ etc.
 + Have an idea / suggestion? Send feedback [here](https://github.com/aecyia/Sakura/issues/new/choose) via a feature request ♡
 
 ## ♡
 
 + Aesthetic -- Pink > Blue > Purple > Green
 + Original tumblr [post](https://www.tumblr.com/astraace/695785491609632768/sakura?source=share)
-+ More screenshots in [this discussion](https://github.com/aecyia/Sakura/discussions/categories/show-and-tell)
++ More screenshots in [these discussions](https://github.com/aecyia/Sakura/discussions/)
 + ModTheSims upload [submission](https://modthesims.info/d/673792)
 
 aecyia ♡ Sakura ♡ 2023
