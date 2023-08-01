@@ -54,8 +54,8 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 ## ♡
 
 + Aesthetic -- Pink > Blue > Purple > Green
-+ Original tumblr [post](https://www.tumblr.com/astraace/695785491609632768/sakura?source=share)
++ Original tumblr [post](https://simmanity.tumblr.com/post/695785491609632768/sakura)
 + More screenshots in [these discussions](https://github.com/aecyia/Sakura/discussions/)
 + ModTheSims upload [submission](https://modthesims.info/d/673792)
 
-aecyia ♡ Sakura ♡ 2023
+aecyia ♡ VMPYRC ♡ Sakura ♡ 2023
