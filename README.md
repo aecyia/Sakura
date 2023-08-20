@@ -44,7 +44,6 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 ## What Sakura doesn't change . . . yet
 
 + Competitions
-+ Create A Household Room Background
 + Map Tags
 + SimPort
 + Tutorials
