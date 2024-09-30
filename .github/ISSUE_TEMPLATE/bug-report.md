@@ -11,11 +11,15 @@ assignees: ''
 
 //your text here//
 
-# Describe the issue. Where is it located? How can it be found?
+## Have you checked other issues?
+
+//yes or no//
+
+## Describe the issue. How do you trigger this bug? Please walk us through it step by step. Where is it located? How can it be found?
 
 //your text here//
 
-## Include a Screenshot
+## Include a Screenshot (optional)
 
 //your screenshot here//
 
