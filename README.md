@@ -8,7 +8,6 @@ Want a light pink one ?
 
 This project aims to recolour the UI, redesign icons, and more
 
-It is mainly based on my personal preferences, but suggestions are welcome ♡
 
 ![sakura](https://user-images.githubusercontent.com/57078659/214094736-689dcf19-3656-422e-b885-8bba937149a4.png)
 
@@ -22,11 +21,11 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 6. Play + Enjoy ♡
 7. Report any issues [here](https://github.com/aecyia/Sakura/issues)
 
-## Conflicts
+## Warnings
 
-+ Only use one recolour mod at a time
-+ Any other mod that changes the UI image assets
-+ If you have other mod packages that changes the assets, prioritize via `Resource.cfg` in your Mods folder
+Only use one recolour mod at a time! This will conflict with any other mod that changes the UI image assets. If you have other mod packages that changes these, prioritize via "Resource.cfg" in your Mods folder.
+
+The colours may appear different based on your computer’s brightness and colour settings. Especially when taking screenshots, it may come out as a super dark pink.
 
 ## What Sakura changes / will change
 
@@ -38,8 +37,7 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + Player Profile and Wall
 + Time Almanac
 + World Adventures Journal
-+ Map Tag Icons
-+ Some Icons
++ Some Icons such as Map Tags
 + Many many more
 
 ## What Sakura doesn't change . . . yet
@@ -49,7 +47,7 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + SimPort
 + Tutorials
 + etc.
-+ Have an idea / suggestion? Send feedback [here](https://github.com/aecyia/Sakura/issues/new/choose) via a feature request ♡
++ Have an idea / suggestion? Found a visual issue? Send feedback [here](https://github.com/aecyia/Sakura/issues/new/choose) via a feature request ♡
 
 ## ♡
 
@@ -58,4 +56,4 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + More screenshots in [these discussions](https://github.com/aecyia/Sakura/discussions/)
 + ModTheSims upload [submission](https://modthesims.info/d/673792)
 
-aecyia ♡ VMPYRC ♡ Sakura ♡ 2023-2024
+[aecyia](https://github.com/aecyia) ♡ [VMPYRC](https://github.com/VMPYRC) ♡ Sakura ♡ 2023-2024
