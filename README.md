@@ -23,7 +23,7 @@ This project aims to recolour the UI, redesign icons, and more
 
 ## Warnings
 
-Only use one recolour mod at a time! This will conflict with any other mod that changes the UI image assets. If you have other mod packages that changes these, prioritize via "Resource.cfg" in your Mods folder.
+Only use one recolour mod at a time! This will conflict with any other mod that changes the UI image assets. You can prioritize via "Resource.cfg" in your Mods folder.
 
 The colours may appear different based on your computer’s brightness and colour settings. Especially when taking screenshots, it may come out as a super dark pink.
 
