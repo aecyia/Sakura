@@ -9,13 +9,13 @@ Want a light pink one ?
 This project aims to recolour the UI, redesign icons, and more
 
 
-![sakura](https://user-images.githubusercontent.com/57078659/214094736-689dcf19-3656-422e-b885-8bba937149a4.png)
+![Sakura](https://user-images.githubusercontent.com/57078659/214094736-689dcf19-3656-422e-b885-8bba937149a4.png)
 
 ## Installation
 
 1. Set up your Mods Folder via [this guide](https://modthesims.info/wiki.php?title=Game_Help:Installing_Sims_3_Package_Files/Setup_and_Files)
 2. Go to [Releases](https://github.com/aecyia/Sakura/releases) -- Instructions are there too ♡
-3. Download Sakura.package
+3. Download the `Sakura_v0.0.7.package` under Assets
 4. Move to `Documents\Electronic Arts\The Sims 3\Mods\`
 5. Place in Overrides OR Packages
 6. Play + Enjoy ♡
@@ -23,9 +23,8 @@ This project aims to recolour the UI, redesign icons, and more
 
 ## Warnings
 
-Only use one recolour mod at a time! This will conflict with any other mod that changes the UI image assets. You can prioritize via "Resource.cfg" in your Mods folder.
-
-The colours may appear different based on your computer’s brightness and colour settings. Especially when taking screenshots, it may come out as a super dark pink.
++ Only use one recolour mod at a time! This will conflict with any other mod that changes the UI image assets. You can prioritize via "Resource.cfg" in your Mods folder.
++ The colours may appear different based on your computer’s brightness and colour settings. Especially when taking screenshots, it may come out as a super dark pink.
 
 ## What Sakura changes / will change
 
