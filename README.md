@@ -17,7 +17,7 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 1. Set up your Mods Folder via [this guide](https://modthesims.info/wiki.php?title=Game_Help:Installing_Sims_3_Package_Files/Setup_and_Files)
 2. Go to [Releases](https://github.com/aecyia/Sakura/releases) -- Instructions are there too ♡
 3. Download Sakura.package
-4. Move to "Documents\Electronic Arts\The Sims 3\Mods\"
+4. Move to `Documents\Electronic Arts\The Sims 3\Mods\`
 5. Place in Overrides OR Packages
 6. Play + Enjoy ♡
 7. Report any issues [here](https://github.com/aecyia/Sakura/issues)
@@ -26,7 +26,7 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 
 + Only use one recolour mod at a time
 + Any other mod that changes the UI image assets
-+ If you have other mod packages that changes the assets, prioritize via Resource.cfg in your Mods folder
++ If you have other mod packages that changes the assets, prioritize via `Resource.cfg` in your Mods folder
 
 ## What Sakura changes / will change
 
@@ -38,13 +38,14 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + Player Profile and Wall
 + Time Almanac
 + World Adventures Journal
++ Map Tag Icons
 + Some Icons
 + Many many more
 
 ## What Sakura doesn't change . . . yet
 
 + Competitions
-+ Map Tags
++ Map Tag Colours
 + SimPort
 + Tutorials
 + etc.
@@ -57,4 +58,4 @@ It is mainly based on my personal preferences, but suggestions are welcome ♡
 + More screenshots in [these discussions](https://github.com/aecyia/Sakura/discussions/)
 + ModTheSims upload [submission](https://modthesims.info/d/673792)
 
-aecyia ♡ VMPYRC ♡ Sakura ♡ 2023
+aecyia ♡ VMPYRC ♡ Sakura ♡ 2023-2024
