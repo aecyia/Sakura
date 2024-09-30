@@ -11,11 +11,11 @@ assignees: ''
 
 //your text here//
 
-## Have you checked the other [issues](https://github.com/aecyia/Sakura/issues?q=)?
+## Have you reviewed the other reported issues? (To reduce duplicated issues)
 
 //yes or no//
 
-## Describe the issue. How do you trigger this bug? Please walk us through it step by step. Where is it located? How can it be found?
+## Describe the issue. How do you trigger this bug? Please provide a step-by-step walkthrough, including its location and how to find it.
 
 //your text here//
 
