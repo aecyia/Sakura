@@ -11,7 +11,7 @@ assignees: ''
 
 //your text here//
 
-## Have you checked other issues?
+## Have you checked the other [issues](https://github.com/aecyia/Sakura/issues?q=)?
 
 //yes or no//
 
