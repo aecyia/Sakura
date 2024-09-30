@@ -10,6 +10,7 @@
 - Tutorials
 - HD Icons
 - Minimize file counts
+- Fix palettes 🎨
 
 ## Good Habits
 
