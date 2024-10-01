@@ -1,6 +1,6 @@
 # Notes
 
-## To-Do
+## Current Status
 
 See this [Kanban Board](https://github.com/users/aecyia/projects/3/views/1)
 
@@ -29,7 +29,7 @@ See this [Kanban Board](https://github.com/users/aecyia/projects/3/views/1)
 | -------- | ------ | ------ |
 |          |        |        |
 
-### A
+
 
 
 
