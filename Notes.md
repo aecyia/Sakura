@@ -2,18 +2,7 @@
 
 ## To-Do
 
-- Fix [open issues](https://github.com/aecyia/Sakura/issues)
-- Update Map Tag Icons
-- Competitions
-- Map Tag Colours
-- SimPort
-- Tutorials
-- HD Icons
-- Minimize file counts
-- Fix palettes 🎨
-- Fix phones
-
-
+See this [Kanban Board](https://github.com/users/aecyia/projects/3/views/1)
 
 ## Good Habits
 
