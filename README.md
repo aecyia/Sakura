@@ -10,6 +10,10 @@ This project aims to recolour the UI, redesign icons, and more
 
 ![Sakura](https://user-images.githubusercontent.com/57078659/214094736-689dcf19-3656-422e-b885-8bba937149a4.png)
 
+## Current Status
+
+[View Project Board](https://github.com/users/aecyia/projects/3)
+
 ## Installation
 
 1. Set up your Mods Folder via [this guide](https://modthesims.info/wiki.php?title=Game_Help:Installing_Sims_3_Package_Files/Setup_and_Files)
@@ -25,7 +29,7 @@ This project aims to recolour the UI, redesign icons, and more
 + Only use one recolour mod at a time! This will conflict with any other mod that changes the UI image assets. You can prioritize via "Resource.cfg" in your Mods folder.
 + The colours may appear different based on your computer’s brightness and colour settings. Especially when taking screenshots, it may come out as a super dark pink.
 
-## What Sakura changes / will change
+## What Sakura changes
 
 + Most UI assets that were blue
 + Celebrity Journal
@@ -35,7 +39,7 @@ This project aims to recolour the UI, redesign icons, and more
 + Player Profile and Wall
 + Time Almanac
 + World Adventures Journal
-+ Some Icons such as Map Tags
++ Some icons such as Map Tags
 + Many many more
 
 ## ♡
