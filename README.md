@@ -4,30 +4,32 @@ Play The Sims 3 ?
 
 Tired of the blue UI ?
 
-Want a light pink one ?
+Want a pink one ?
 
-This project aims to recolour the UI, redesign icons, and more
+This project aims to recolour the UI, redesign icons, and more ♡
 
+![Sakura](https://user-images.githubusercontent.com/57078659/214094736-689dcf19-3656-422e-b885-8bba937149a4.png)
 
-![sakura](https://user-images.githubusercontent.com/57078659/214094736-689dcf19-3656-422e-b885-8bba937149a4.png)
+## Current Status
+
+[View Project Board](https://github.com/users/aecyia/projects/3)
 
 ## Installation
 
 1. Set up your Mods Folder via [this guide](https://modthesims.info/wiki.php?title=Game_Help:Installing_Sims_3_Package_Files/Setup_and_Files)
 2. Go to [Releases](https://github.com/aecyia/Sakura/releases) -- Instructions are there too ♡
-3. Download Sakura.package
+3. Download the `Sakura_v0.0.7.package` under Assets
 4. Move to `Documents\Electronic Arts\The Sims 3\Mods\`
 5. Place in Overrides OR Packages
 6. Play + Enjoy ♡
-7. Report any issues [here](https://github.com/aecyia/Sakura/issues)
+7. Have an idea / suggestion? Found a visual issue? Send feedback [here](https://github.com/aecyia/Sakura/issues) ♡
 
 ## Warnings
 
-Only use one recolour mod at a time! This will conflict with any other mod that changes the UI image assets. You can prioritize via "Resource.cfg" in your Mods folder.
++ Only use one recolour mod at a time! This will conflict with any other mod that changes the UI image assets. You can prioritize via "Resource.cfg" in your Mods folder.
++ The colours may appear different based on your computer’s brightness and colour settings. Especially when taking screenshots, it may come out as a super dark pink.
 
-The colours may appear different based on your computer’s brightness and colour settings. Especially when taking screenshots, it may come out as a super dark pink.
-
-## What Sakura changes / will change
+## What Sakura changes
 
 + Most UI assets that were blue
 + Celebrity Journal
@@ -37,17 +39,8 @@ The colours may appear different based on your computer’s brightness and colou
 + Player Profile and Wall
 + Time Almanac
 + World Adventures Journal
-+ Some Icons such as Map Tags
++ Some icons such as Map Tags
 + Many many more
-
-## What Sakura doesn't change . . . yet
-
-+ Competitions
-+ Map Tag Colours
-+ SimPort
-+ Tutorials
-+ etc.
-+ Have an idea / suggestion? Found a visual issue? Send feedback [here](https://github.com/aecyia/Sakura/issues/new/choose) via a feature request ♡
 
 ## ♡
 
