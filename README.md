@@ -4,9 +4,9 @@ Play The Sims 3 ?
 
 Tired of the blue UI ?
 
-Want a light pink one ?
+Want a pink one ?
 
-This project aims to recolour the UI, redesign icons, and more
+This project aims to recolour the UI, redesign icons, and more ♡
 
 ![Sakura](https://user-images.githubusercontent.com/57078659/214094736-689dcf19-3656-422e-b885-8bba937149a4.png)
 
@@ -22,7 +22,7 @@ This project aims to recolour the UI, redesign icons, and more
 4. Move to `Documents\Electronic Arts\The Sims 3\Mods\`
 5. Place in Overrides OR Packages
 6. Play + Enjoy ♡
-7. Have an idea / suggestion? Found a visual issue? Send feedback [here](https://github.com/aecyia/Sakura/issues) via a feature request ♡
+7. Have an idea / suggestion? Found a visual issue? Send feedback [here](https://github.com/aecyia/Sakura/issues) ♡
 
 ## Warnings
 
