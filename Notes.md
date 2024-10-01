@@ -32,6 +32,11 @@
 | ------ | ------ |
 |        |        |
 
+| Original | v0.0.7 |
+| -------- | ------ |
+|          |        |
+
+
 ## Krita
 
 1. Filter >> Adjust >> HSV Adjustment (CTRL + U)
