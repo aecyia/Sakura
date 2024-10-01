@@ -11,6 +11,7 @@
 - HD Icons
 - Minimize file counts
 - Fix palettes 🎨
+- Fix phones
 
 ## Good Habits
 
