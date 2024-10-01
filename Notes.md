@@ -26,7 +26,7 @@
   - Add on [MTS](https://modthesims.info/d/673792/)
   - Add on [Discussions](https://github.com/aecyia/Sakura/discussions/32)
 
-### 
+### Tables
 
 | v0.0.6 | v0.0.7 |
 | ------ | ------ |
@@ -35,6 +35,13 @@
 | Original | v0.0.7 |
 | -------- | ------ |
 |          |        |
+
+| Original | v0.0.6 | v0.0.7 |
+| -------- | ------ | ------ |
+|          |        |        |
+
+### A
+
 
 
 ## Krita
