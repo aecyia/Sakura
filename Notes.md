@@ -1,11 +1,8 @@
 # Notes
 
-## Current Status
-
-See this [Kanban Board](https://github.com/users/aecyia/projects/3/views/1)
-
 ## Good Habits
 
+- Use this [Kanban Board](https://github.com/users/aecyia/projects/3/views/1)
 - Follow precedent from previous release notes
   - For Github Releases
   - For [MTS](https://modthesims.info/download.php?t=673792&c=1&goto=newpost) (Use BBCode)
@@ -28,6 +25,9 @@ See this [Kanban Board](https://github.com/users/aecyia/projects/3/views/1)
 | Original | v0.0.6 | v0.0.7 |
 | -------- | ------ | ------ |
 |          |        |        |
+
+
+
 
 
 
