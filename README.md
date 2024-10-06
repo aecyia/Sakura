@@ -18,7 +18,7 @@ This project aims to recolour the UI, redesign icons, and more ♡
 
 1. Set up your Mods Folder via [this guide](https://modthesims.info/wiki.php?title=Game_Help:Installing_Sims_3_Package_Files/Setup_and_Files)
 2. Go to [Releases](https://github.com/aecyia/Sakura/releases) -- Instructions are there too ♡
-3. Download the `Sakura_v0.0.7.package` under Assets
+3. Download the `.package` file included under Assets
 4. Move to `Documents\Electronic Arts\The Sims 3\Mods\`
 5. Place in Overrides OR Packages
 6. Play + Enjoy ♡
