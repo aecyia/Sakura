@@ -8,7 +8,7 @@ Want a pink one ?
 
 This project aims to recolour the UI, redesign icons, and more ♡
 
-![Sakura](https://user-images.githubusercontent.com/57078659/214094736-689dcf19-3656-422e-b885-8bba937149a4.png)
+![Sakura](Sakura.png)
 
 ## Current Status
 
