@@ -1,3 +1,9 @@
+🚨 Project Status ![Status: Stalled](https://img.shields.io/badge/status-stalled-yellow) 🚨
+
+> ⚠️ **This project is currently stalled** and not under active development or maintenance as of 2024 October 19th.
+
+[View Project Board](https://github.com/users/aecyia/projects/3)
+
 # Sakura ♡
 
 Play The Sims 3 ?
@@ -8,11 +14,7 @@ Want a pink one ?
 
 This project aims to recolour the UI, redesign icons, and more ♡
 
-![Sakura](https://user-images.githubusercontent.com/57078659/214094736-689dcf19-3656-422e-b885-8bba937149a4.png)
-
-## Current Status
-
-[View Project Board](https://github.com/users/aecyia/projects/3)
+![Sakura](Sakura.png)
 
 ## Installation
 
