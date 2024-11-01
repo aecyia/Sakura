@@ -1,8 +1,6 @@
 🚨 Project Status ![Status: Stalled](https://img.shields.io/badge/status-stalled-yellow) 🚨
 
-> ⚠️ **This project is currently stalled** and not under active development or maintenance as of 2024 October 19th.
-
-[View Project Board](https://github.com/users/aecyia/projects/3)
+> ⚠️ **This project is currently stalled** and not under active development or maintenance as of 2024 November 1st.
 
 # Sakura ♡
 
