@@ -1,6 +1,6 @@
 🚨 Project Status ![Status: Stalled](https://img.shields.io/badge/status-stalled-yellow) 🚨
 
-> ⚠️ **This project is currently stalled** and not under active development or maintenance as of 2024 November 1st.
+> ⚠️ **This project is currently stalled** and not under frequent development.
 
 # Sakura ♡
 
@@ -33,7 +33,7 @@ This project aims to recolour the UI, redesign icons, and more ♡
   - The Sims 3 version 1.67.2.024037
   - With all the Expansion and Stuff Packs (except Sweet Treats)
   - Manual edits through a digital art software, and not through scripted / batch actions
-    - As a result, some visuals may appear as their default image. Please report any issues.
+    - As a result, some visuals may appear as their default image. Please report any issues [here](https://github.com/aecyia/Sakura/issues) ♡
 
 ## What Sakura changes
 
@@ -45,7 +45,7 @@ This project aims to recolour the UI, redesign icons, and more ♡
 - Player Profile and Wall
 - Time Almanac
 - World Adventures Journal
-- Some icons such as Map Tags
+- Some icons
 - Many many more
 
 ## ♡
