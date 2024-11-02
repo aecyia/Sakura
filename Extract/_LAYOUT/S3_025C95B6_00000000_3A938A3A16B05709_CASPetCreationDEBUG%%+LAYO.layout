@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<graph class="Layout" type="Layout">
+  <object cls="Sims3CustomWindow" clsid="0x03aa4128" id="0x00000001">
+    <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002003" />
+    <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0" />
+    <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+    <prop name="Area" propid="0xeec1b005" type="rectf" value="876,40,1040,607" />
+    <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xff7f7f7f" />
+    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+    <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+    <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+    <prop name="WinProcs" propid="0xeec1b00c" type="object" count="1">
+      <object cls="SimpleLayout" clsid="0x2f418d72">
+        <prop name="Anchor" propid="0x0f3d0000" type="uint8" value="5" />
+      </object>
+    </prop>
+    <prop name="Children" propid="0xeec1b00b" type="object" count="4">
+      <object cls="Button" clsid="0xeeefe2c3">
+        <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000200b" />
+        <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x0b6127ff" />
+        <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+        <prop name="Area" propid="0xeec1b005" type="rectf" value="25,104,117,134" />
+        <prop name="Caption" propid="0xeec1b00a" type="string" value="Add Pet" />
+        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xff7f7f7f" />
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+        <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+        <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="2" />
+        <prop name="ButtonFlags" propid="0xeec1d002" type="uint32" value="0x00000000" />
+        <prop name="ButtonStateFlags" propid="0xeec1d001" type="uint32" value="0x00000000" />
+        <prop name="ButtonDrawable" propid="0xeec1b007" type="object">
+          <object cls="ButtonDrawableStandard" clsid="0xaf3a9e26">
+            <prop name="Tileable" propid="0xef3c000a" type="bool" value="False" />
+          </object>
+        </prop>
+        <prop name="Alignment" propid="0xeec1d004" type="uint32" value="1" />
+        <prop name="CaptionBorder" propid="0xeec1d006" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="1" />
+            <prop name="Top" propid="2" type="float" value="1" />
+            <prop name="Right" propid="3" type="float" value="1" />
+            <prop name="Bottom" propid="4" type="float" value="1" />
+          </struct>
+        </prop>
+        <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
+        <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+        </prop>
+        <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="1" />
+        <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
+        <prop name="CaptionWrap" propid="0xeec1d00e" type="uint32" value="0" />
+        <prop name="CaptionOverflow" propid="0xeec1d00f" type="uint32" value="3" />
+        <prop name="ButtonType" propid="0xeec1d003" type="uint32" value="1" />
+        <prop name="ButtonGroupID" propid="0xeec1d005" type="uint32" value="0" />
+      </object>
+      <object cls="ComboBox" clsid="0xaf552c4b">
+        <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000200b" />
+        <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x0b6bb090" />
+        <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+        <prop name="Area" propid="0xeec1b005" type="rectf" value="14,11,127,32" />
+        <prop name="Caption" propid="0xeec1b00a" type="string" value="Species" />
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+        <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+        <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+        <prop name="ComboBoxFlags" propid="0xaf58f7d6" type="uint32" value="0x00000001" />
+        <prop name="Alignment" propid="0xaf58f7d3" type="uint32" value="1" />
+        <prop name="Gutters" propid="0xaf58f7da" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="2" />
+            <prop name="Top" propid="2" type="float" value="2" />
+            <prop name="Right" propid="3" type="float" value="2" />
+            <prop name="Bottom" propid="4" type="float" value="2" />
+          </struct>
+        </prop>
+        <prop name="PulldownVerticalOffset" propid="0xaf58f7db" type="float" value="0" />
+        <prop name="CaptionGutters" propid="0xaf58f7dc" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="2" />
+            <prop name="Top" propid="2" type="float" value="2" />
+            <prop name="Right" propid="3" type="float" value="2" />
+            <prop name="Bottom" propid="4" type="float" value="2" />
+          </struct>
+        </prop>
+        <prop name="Colors" propid="0xaf58f7d4" type="uint32" count="6">
+          <value>0xff000000</value>
+          <value>0xffece9d8</value>
+          <value>0xffece9d8</value>
+          <value>0xff737163</value>
+          <value>0xffffffff</value>
+          <value>0xff000000</value>
+        </prop>
+        <prop name="DisabledColor" propid="0xaf58f7dd" type="uint32" value="0xff718aad" />
+        <prop name="ComboBoxDrawable" propid="0xeec1b007" type="object">
+          <object cls="ComboBoxDrawable" clsid="0x2f552cce">
+            <prop name="Images" propid="0x2f591e33" type="image" count="3">
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+            </prop>
+          </object>
+        </prop>
+        <prop name="ScrollbarDrawable" propid="0xaf58f7d7" type="object">
+          <object cls="ScrollbarDrawable" clsid="0x0f034637">
+            <prop name="Images" propid="0xaf42d91c" type="image" count="7">
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+            </prop>
+          </object>
+        </prop>
+        <prop name="VisibleValuesCount" propid="0xaf58f7d5" type="uint32" value="4294967295" />
+        <prop name="ValueList" propid="0xaf58f7d1" type="string" count="0" />
+      </object>
+      <object cls="ComboBox" clsid="0xaf552c4b">
+        <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000200b" />
+        <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x0b6bb0a0" />
+        <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+        <prop name="Area" propid="0xeec1b005" type="rectf" value="17,41,127,62" />
+        <prop name="Caption" propid="0xeec1b00a" type="string" value="Gender" />
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+        <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+        <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+        <prop name="ComboBoxFlags" propid="0xaf58f7d6" type="uint32" value="0x00000001" />
+        <prop name="Alignment" propid="0xaf58f7d3" type="uint32" value="1" />
+        <prop name="Gutters" propid="0xaf58f7da" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="2" />
+            <prop name="Top" propid="2" type="float" value="2" />
+            <prop name="Right" propid="3" type="float" value="2" />
+            <prop name="Bottom" propid="4" type="float" value="2" />
+          </struct>
+        </prop>
+        <prop name="PulldownVerticalOffset" propid="0xaf58f7db" type="float" value="0" />
+        <prop name="CaptionGutters" propid="0xaf58f7dc" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="2" />
+            <prop name="Top" propid="2" type="float" value="2" />
+            <prop name="Right" propid="3" type="float" value="2" />
+            <prop name="Bottom" propid="4" type="float" value="2" />
+          </struct>
+        </prop>
+        <prop name="Colors" propid="0xaf58f7d4" type="uint32" count="6">
+          <value>0xff000000</value>
+          <value>0xffece9d8</value>
+          <value>0xffece9d8</value>
+          <value>0xff737163</value>
+          <value>0xffffffff</value>
+          <value>0xff000000</value>
+        </prop>
+        <prop name="DisabledColor" propid="0xaf58f7dd" type="uint32" value="0xff718aad" />
+        <prop name="ComboBoxDrawable" propid="0xeec1b007" type="object">
+          <object cls="ComboBoxDrawable" clsid="0x2f552cce">
+            <prop name="Images" propid="0x2f591e33" type="image" count="3">
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+            </prop>
+          </object>
+        </prop>
+        <prop name="ScrollbarDrawable" propid="0xaf58f7d7" type="object">
+          <object cls="ScrollbarDrawable" clsid="0x0f034637">
+            <prop name="Images" propid="0xaf42d91c" type="image" count="7">
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+            </prop>
+          </object>
+        </prop>
+        <prop name="VisibleValuesCount" propid="0xaf58f7d5" type="uint32" value="4294967295" />
+        <prop name="ValueList" propid="0xaf58f7d1" type="string" count="0" />
+      </object>
+      <object cls="ComboBox" clsid="0xaf552c4b">
+        <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000200b" />
+        <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x0b6bb120" />
+        <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+        <prop name="Area" propid="0xeec1b005" type="rectf" value="17,72,127,93" />
+        <prop name="Caption" propid="0xeec1b00a" type="string" value="Age" />
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+        <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+        <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+        <prop name="ComboBoxFlags" propid="0xaf58f7d6" type="uint32" value="0x00000001" />
+        <prop name="Alignment" propid="0xaf58f7d3" type="uint32" value="1" />
+        <prop name="Gutters" propid="0xaf58f7da" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="2" />
+            <prop name="Top" propid="2" type="float" value="2" />
+            <prop name="Right" propid="3" type="float" value="2" />
+            <prop name="Bottom" propid="4" type="float" value="2" />
+          </struct>
+        </prop>
+        <prop name="PulldownVerticalOffset" propid="0xaf58f7db" type="float" value="0" />
+        <prop name="CaptionGutters" propid="0xaf58f7dc" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="2" />
+            <prop name="Top" propid="2" type="float" value="2" />
+            <prop name="Right" propid="3" type="float" value="2" />
+            <prop name="Bottom" propid="4" type="float" value="2" />
+          </struct>
+        </prop>
+        <prop name="Colors" propid="0xaf58f7d4" type="uint32" count="6">
+          <value>0xff000000</value>
+          <value>0xffece9d8</value>
+          <value>0xffece9d8</value>
+          <value>0xff737163</value>
+          <value>0xffffffff</value>
+          <value>0xff000000</value>
+        </prop>
+        <prop name="DisabledColor" propid="0xaf58f7dd" type="uint32" value="0xff718aad" />
+        <prop name="ComboBoxDrawable" propid="0xeec1b007" type="object">
+          <object cls="ComboBoxDrawable" clsid="0x2f552cce">
+            <prop name="Images" propid="0x2f591e33" type="image" count="3">
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+            </prop>
+          </object>
+        </prop>
+        <prop name="ScrollbarDrawable" propid="0xaf58f7d7" type="object">
+          <object cls="ScrollbarDrawable" clsid="0x0f034637">
+            <prop name="Images" propid="0xaf42d91c" type="image" count="7">
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+            </prop>
+          </object>
+        </prop>
+        <prop name="VisibleValuesCount" propid="0xaf58f7d5" type="uint32" value="4294967295" />
+        <prop name="ValueList" propid="0xaf58f7d1" type="string" count="0" />
+      </object>
+    </prop>
+    <prop name="CustomControlFlags" propid="0x03aa2001" type="uint32" value="0x00000001" />
+    <prop name="CustomControlID" propid="0x03aa2000" type="uint32" value="0x0b612744" />
+  </object>
+</graph>
