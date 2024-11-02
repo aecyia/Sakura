@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<graph class="Layout" type="Layout">
+  <object cls="Window" clsid="0x4ec1b8d8" id="0x00000001">
+    <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00000003" />
+    <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0" />
+    <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+    <prop name="Area" propid="0xeec1b005" type="rectf" value="10,10,60,60" />
+    <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xff7f7f7f" />
+    <prop name="FillDrawable" propid="0xeec1b007" type="object">
+      <object cls="FrameDrawable" clsid="0x030d54b9">
+        <prop name="Style" propid="0x030d0001" type="struct" count="8">
+          <struct cls="FrameStyle" clsid="FrameStyle" />
+          <struct cls="FrameStyle" clsid="FrameStyle" />
+          <struct cls="FrameStyle" clsid="FrameStyle" />
+          <struct cls="FrameStyle" clsid="FrameStyle" />
+          <struct cls="FrameStyle" clsid="FrameStyle" />
+          <struct cls="FrameStyle" clsid="FrameStyle" />
+          <struct cls="FrameStyle" clsid="FrameStyle" />
+          <struct cls="FrameStyle" clsid="FrameStyle" />
+        </prop>
+        <prop name="BorderWidth" propid="0x030d0000" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="1" />
+            <prop name="Top" propid="2" type="float" value="1" />
+            <prop name="Right" propid="3" type="float" value="1" />
+            <prop name="Bottom" propid="4" type="float" value="1" />
+          </struct>
+        </prop>
+      </object>
+    </prop>
+    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+    <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+  </object>
+</graph>

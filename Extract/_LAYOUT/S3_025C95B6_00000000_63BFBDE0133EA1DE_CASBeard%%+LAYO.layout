@@ -1,0 +1,883 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<graph class="Layout" type="Layout">
+  <object cls="Sims3CustomWindow" clsid="0x03aa4128" id="0x00000001">
+    <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002012" />
+    <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0" />
+    <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+    <prop name="Area" propid="0xeec1b005" type="rectf" value="90,11,537,619" />
+    <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
+    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+    <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+    <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+    <prop name="WinProcs" propid="0xeec1b00c" type="object" count="1">
+      <object cls="Fade" clsid="0x6f2b6d2c">
+        <prop name="Time" propid="0x4f2b0000" type="float" value="0.5" />
+        <prop name="Trigger" propid="0x4f2b0001" type="uint32" value="1" />
+        <prop name="InterpolationType" propid="0x4f2b0002" type="uint32" value="1" />
+        <prop name="Ease-In" propid="0x4f2b0003" type="float" value="0.1" />
+        <prop name="Ease-Out" propid="0x4f2b0004" type="float" value="0.1" />
+        <prop name="Damping" propid="0x4f2b0005" type="float" value="0.1" />
+        <prop name="Autoloop" propid="0x4f2b0006" type="bool" value="False" />
+        <prop name="LoopType" propid="0x4f2b0007" type="uint32" value="0" />
+      </object>
+    </prop>
+    <prop name="Children" propid="0xeec1b00b" type="object" count="4">
+      <object cls="Text" clsid="0x6f15f51b">
+        <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00000003" />
+        <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbcf01" />
+        <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+        <prop name="Area" propid="0xeec1b005" type="rectf" value="80,40,340,54" />
+        <prop name="Caption" propid="0xeec1b00a" type="string" value="Beard" key="00000012:00000000:466c2fe551bd20d3" />
+        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xff163996" />
+        <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062eae01" />
+        <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+        <prop name="TextBorder" propid="0x6f43fcce" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="0" />
+            <prop name="Top" propid="2" type="float" value="0" />
+            <prop name="Right" propid="3" type="float" value="0" />
+            <prop name="Bottom" propid="4" type="float" value="0" />
+          </struct>
+        </prop>
+        <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xffffffff" />
+        <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
+        <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
+        <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
+      </object>
+      <object cls="Sims3IconButton" clsid="0x062569a8">
+        <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000200b" />
+        <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbb90f" />
+        <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+        <prop name="Area" propid="0xeec1b005" type="rectf" value="324,65.00002,352,93.00002" />
+        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+        <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+        <prop name="TooltipText" propid="0xeec1b00f" type="string" value="Ui/Tooltip/GameEntry/EditTown:ShowCustomContent" key="00000012:00000000:1e02990e436f669c" />
+        <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="4" />
+        <prop name="Comment" propid="Comment" type="string" value="Filter" />
+        <prop name="ButtonFlags" propid="0xeec1d002" type="uint32" value="0x00000000" />
+        <prop name="ButtonStateFlags" propid="0xeec1d001" type="uint32" value="0x00000000" />
+        <prop name="ButtonDrawable" propid="0xeec1b007" type="object">
+          <object cls="IconButtonMultiDrawable" clsid="0xb03c197f">
+            <prop name="Drawables" propid="0x0f3ac75f" type="object" count="3">
+              <value type="object" />
+              <object cls="IconDrawable" clsid="0xbf7bfe30">
+                <prop name="Image" propid="0x4f3c4a26" type="image" key="2f7d0004:00000000:2bb76846cf6c4e5e" />
+                <prop name="AlignmentHorizontal" propid="0x4f3c4a29" type="uint32" value="3" />
+                <prop name="AlignmentVertical" propid="0x4f3c4a28" type="uint32" value="3" />
+                <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
+                <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.9" />
+                <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
+                  <value>0xff002d74</value>
+                  <value>0xff808fa9</value>
+                  <value>0xffe5ffff</value>
+                  <value>0xffffffff</value>
+                  <value>0xffffffff</value>
+                  <value>0xff808fa9</value>
+                  <value>0xffffffff</value>
+                  <value>0xff002d74</value>
+                </prop>
+              </object>
+              <value type="object" />
+            </prop>
+          </object>
+        </prop>
+        <prop name="Alignment" propid="0xeec1d004" type="uint32" value="1" />
+        <prop name="CaptionBorder" propid="0xeec1d006" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="1" />
+            <prop name="Top" propid="2" type="float" value="1" />
+            <prop name="Right" propid="3" type="float" value="1" />
+            <prop name="Bottom" propid="4" type="float" value="1" />
+          </struct>
+        </prop>
+        <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
+        <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+          <value>0xff000000</value>
+        </prop>
+        <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="1" />
+        <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
+        <prop name="CaptionWrap" propid="0xeec1d00e" type="uint32" value="0" />
+        <prop name="ButtonType" propid="0xeec1d003" type="uint32" value="2" />
+        <prop name="ButtonGroupID" propid="0xeec1d005" type="uint32" value="0" />
+      </object>
+      <object cls="Window" clsid="0x4ec1b8d8">
+        <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002013" />
+        <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbcf1f" />
+        <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+        <prop name="Area" propid="0xeec1b005" type="rectf" value="60,92,406,394" />
+        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00807f7f" />
+        <prop name="FillDrawable" propid="0xeec1b007" type="object">
+          <object cls="StdDrawable" clsid="0xb03c196f">
+            <prop name="Image" propid="0x0f3ac75e" type="image" count="8">
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+            </prop>
+            <prop name="DrawMask" propid="0x0f3c000f" type="image" count="8">
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+            </prop>
+            <prop name="HitMask" propid="0x0f3c000d" type="hitmask" />
+            <prop name="ScaleType" propid="0xef3c000a" type="uint32" value="2" />
+            <prop name="ScaleFactor" propid="0xef3c000b" type="pointf" value="1,1" />
+            <prop name="ScaleArea" propid="0xef3c000c" type="struct">
+              <struct cls="Borders" clsid="Borders">
+                <prop name="Left" propid="1" type="float" value="0.333333343" />
+                <prop name="Top" propid="2" type="float" value="0.333333343" />
+                <prop name="Right" propid="3" type="float" value="0.333333343" />
+                <prop name="Bottom" propid="4" type="float" value="0.333333343" />
+              </struct>
+            </prop>
+            <prop name="GlowType" propid="0x0f3c0010" type="uint32" value="2" />
+            <prop name="GlowScale" propid="0x0f3c0012" type="pointf" value="1.33333,1.33333" />
+            <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
+          </object>
+        </prop>
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+        <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+        <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+        <prop name="Comment" propid="Comment" type="string" value="Hair Styles" />
+        <prop name="Children" propid="0xeec1b00b" type="object" count="2">
+          <object cls="Window" clsid="0x4ec1b8d8">
+            <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002013" />
+            <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbcf23" />
+            <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+            <prop name="Area" propid="0xeec1b005" type="rectf" value="0,-1,302,301" />
+            <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x007f7f7f" />
+            <prop name="FillDrawable" propid="0xeec1b007" type="object">
+              <object cls="StdDrawable" clsid="0xb03c196f">
+                <prop name="Image" propid="0x0f3ac75e" type="image" count="8">
+                  <value type="image" key="2f7d0004:00000000:ef88dbcf3fb6bdcc" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                </prop>
+                <prop name="DrawMask" propid="0x0f3c000f" type="image" count="8">
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                </prop>
+                <prop name="HitMask" propid="0x0f3c000d" type="hitmask" />
+                <prop name="ScaleType" propid="0xef3c000a" type="uint32" value="2" />
+                <prop name="ScaleFactor" propid="0xef3c000b" type="pointf" value="1,1" />
+                <prop name="ScaleArea" propid="0xef3c000c" type="struct">
+                  <struct cls="Borders" clsid="Borders">
+                    <prop name="Left" propid="1" type="float" value="0.333333343" />
+                    <prop name="Top" propid="2" type="float" value="0.333333343" />
+                    <prop name="Right" propid="3" type="float" value="0.333333343" />
+                    <prop name="Bottom" propid="4" type="float" value="0.333333343" />
+                  </struct>
+                </prop>
+                <prop name="GlowType" propid="0x0f3c0010" type="uint32" value="2" />
+                <prop name="GlowScale" propid="0x0f3c0012" type="pointf" value="1.33333,1.33333" />
+                <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
+              </object>
+            </prop>
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+            <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+            <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+            <prop name="Children" propid="0xeec1b00b" type="object" count="1">
+              <object cls="ItemGrid" clsid="0x05820917">
+                <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002413" />
+                <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbcf21" />
+                <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+                <prop name="Area" propid="0xeec1b005" type="rectf" value="2,2,334,316" />
+                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+                <prop name="VisibleCols" propid="0x05820900" type="uint32" value="3" />
+                <prop name="VisibleRows" propid="0x05820901" type="uint32" value="3" />
+                <prop name="CellArea" propid="0x05820902" type="pointf" value="115,115" />
+                <prop name="CellPadding" propid="0x05820903" type="rectf" value="0,0,-19,-19" />
+                <prop name="HorizontalScrolling" propid="0x05820904" type="bool" value="False" />
+                <prop name="GridLines" propid="0x05820905" type="bool" value="False" />
+                <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
+                <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
+                <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
+                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+                <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
+                <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
+                <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
+                <prop name="GridPadding" propid="0x0582090c" type="rectf" value="1,1,11,1" />
+                <prop name="GridClipPadding" propid="0x05820913" type="rectf" value="0,-1,10,7" />
+                <prop name="StretchCellWindows" propid="0x0582090e" type="bool" value="True" />
+                <prop name="UseArrowsForScrolling" propid="0x0582090f" type="bool" value="False" />
+                <prop name="DefaultCellCount" propid="0x05820911" type="uint32" value="1" />
+                <prop name="SmoothScrolling" propid="0x05820912" type="bool" value="True" />
+                <prop name="OverrideScrollArrows" propid="0x05820918" type="bool" value="False" />
+                <prop name="UseMiniScrollbars" propid="0x05820914" type="bool" value="False" />
+                <prop name="MouseHoverEffects" propid="0x05820915" type="bool" value="True" />
+                <prop name="UseSeparateClipForHoverEffects" propid="0x05820916" type="bool" value="True" />
+                <prop name="HoverEffectsClip" propid="0x05820917" type="rectf" value="10,10,20,20" />
+              </object>
+            </prop>
+          </object>
+          <object cls="Text" clsid="0x6f15f51b">
+            <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00000002" />
+            <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbcf25" />
+            <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+            <prop name="Area" propid="0xeec1b005" type="rectf" value="10,-22,260,-4" />
+            <prop name="Caption" propid="0xeec1b00a" type="string" value="Ui/Caption/CAS/Hair:HatStyle" key="00000012:00000000:3b3714d38d57ba4b" />
+            <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+            <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062ead03" />
+            <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+            <prop name="TextBorder" propid="0x6f43fcce" type="struct">
+              <struct cls="Borders" clsid="Borders">
+                <prop name="Left" propid="1" type="float" value="0" />
+                <prop name="Top" propid="2" type="float" value="0" />
+                <prop name="Right" propid="3" type="float" value="0" />
+                <prop name="Bottom" propid="4" type="float" value="0" />
+              </struct>
+            </prop>
+            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff5d97aa" />
+            <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
+            <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="3" />
+            <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
+          </object>
+        </prop>
+      </object>
+      <object cls="Window" clsid="0x4ec1b8d8">
+        <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002003" />
+        <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbcf20" />
+        <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+        <prop name="Area" propid="0xeec1b005" type="rectf" value="60,410,389,592" />
+        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00807f7f" />
+        <prop name="FillDrawable" propid="0xeec1b007" type="object">
+          <object cls="StdDrawable" clsid="0xb03c196f">
+            <prop name="Image" propid="0x0f3ac75e" type="image" count="8">
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+            </prop>
+            <prop name="DrawMask" propid="0x0f3c000f" type="image" count="8">
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+              <value type="image" key="" />
+            </prop>
+            <prop name="HitMask" propid="0x0f3c000d" type="hitmask" />
+            <prop name="ScaleType" propid="0xef3c000a" type="uint32" value="2" />
+            <prop name="ScaleFactor" propid="0xef3c000b" type="pointf" value="1,1" />
+            <prop name="ScaleArea" propid="0xef3c000c" type="struct">
+              <struct cls="Borders" clsid="Borders">
+                <prop name="Left" propid="1" type="float" value="0.333333343" />
+                <prop name="Top" propid="2" type="float" value="0.333333343" />
+                <prop name="Right" propid="3" type="float" value="0.333333343" />
+                <prop name="Bottom" propid="4" type="float" value="0.333333343" />
+              </struct>
+            </prop>
+            <prop name="GlowType" propid="0x0f3c0010" type="uint32" value="2" />
+            <prop name="GlowScale" propid="0x0f3c0012" type="pointf" value="1.33333,1.33333" />
+            <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
+          </object>
+        </prop>
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+        <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+        <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+        <prop name="Comment" propid="Comment" type="string" value="Hair Colors" />
+        <prop name="Children" propid="0xeec1b00b" type="object" count="5">
+          <object cls="Window" clsid="0x4ec1b8d8">
+            <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002013" />
+            <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0" />
+            <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+            <prop name="Area" propid="0xeec1b005" type="rectf" value="0,8,303,138" />
+            <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x007f7f7f" />
+            <prop name="FillDrawable" propid="0xeec1b007" type="object">
+              <object cls="StdDrawable" clsid="0xb03c196f">
+                <prop name="Image" propid="0x0f3ac75e" type="image" count="8">
+                  <value type="image" key="2f7d0004:00000000:ef88dbcf3fb6bdcc" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                </prop>
+                <prop name="DrawMask" propid="0x0f3c000f" type="image" count="8">
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                </prop>
+                <prop name="HitMask" propid="0x0f3c000d" type="hitmask" />
+                <prop name="ScaleType" propid="0xef3c000a" type="uint32" value="2" />
+                <prop name="ScaleFactor" propid="0xef3c000b" type="pointf" value="1,1" />
+                <prop name="ScaleArea" propid="0xef3c000c" type="struct">
+                  <struct cls="Borders" clsid="Borders">
+                    <prop name="Left" propid="1" type="float" value="0.333333343" />
+                    <prop name="Top" propid="2" type="float" value="0.333333343" />
+                    <prop name="Right" propid="3" type="float" value="0.333333343" />
+                    <prop name="Bottom" propid="4" type="float" value="0.333333343" />
+                  </struct>
+                </prop>
+                <prop name="GlowType" propid="0x0f3c0010" type="uint32" value="2" />
+                <prop name="GlowScale" propid="0x0f3c0012" type="pointf" value="1.33333,1.33333" />
+                <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
+              </object>
+            </prop>
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+            <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+            <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+            <prop name="Comment" propid="Comment" type="string" value="Hair Color Presets" />
+            <prop name="WinProcs" propid="0xeec1b00c" type="object" count="1">
+              <object cls="SimpleLayout" clsid="0x2f418d72">
+                <prop name="Anchor" propid="0x0f3d0000" type="uint8" value="5" />
+              </object>
+            </prop>
+            <prop name="Children" propid="0xeec1b00b" type="object" count="1">
+              <object cls="ItemGrid" clsid="0x05820917">
+                <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002413" />
+                <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbcf22" />
+                <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+                <prop name="Area" propid="0xeec1b005" type="rectf" value="5,4,327,152" />
+                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+                <prop name="VisibleCols" propid="0x05820900" type="uint32" value="5" />
+                <prop name="VisibleRows" propid="0x05820901" type="uint32" value="2" />
+                <prop name="CellArea" propid="0x05820902" type="pointf" value="58,58" />
+                <prop name="CellPadding" propid="0x05820903" type="rectf" value="0,0,0,2" />
+                <prop name="HorizontalScrolling" propid="0x05820904" type="bool" value="True" />
+                <prop name="GridLines" propid="0x05820905" type="bool" value="False" />
+                <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
+                <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
+                <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
+                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+                <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
+                <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
+                <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
+                <prop name="GridPadding" propid="0x0582090c" type="rectf" value="2,2,4,4" />
+                <prop name="GridClipPadding" propid="0x05820913" type="rectf" value="3,0,1,0" />
+                <prop name="StretchCellWindows" propid="0x0582090e" type="bool" value="True" />
+                <prop name="UseArrowsForScrolling" propid="0x0582090f" type="bool" value="False" />
+                <prop name="DefaultCellCount" propid="0x05820911" type="uint32" value="0" />
+                <prop name="SmoothScrolling" propid="0x05820912" type="bool" value="True" />
+                <prop name="OverrideScrollArrows" propid="0x05820918" type="bool" value="False" />
+                <prop name="UseMiniScrollbars" propid="0x05820914" type="bool" value="True" />
+                <prop name="MouseHoverEffects" propid="0x05820915" type="bool" value="False" />
+                <prop name="UseSeparateClipForHoverEffects" propid="0x05820916" type="bool" value="False" />
+                <prop name="HoverEffectsClip" propid="0x05820917" type="rectf" value="10,10,20,20" />
+              </object>
+            </prop>
+          </object>
+          <object cls="Button" clsid="0xeeefe2c3">
+            <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000200b" />
+            <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbb901" />
+            <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+            <prop name="Area" propid="0xeec1b005" type="rectf" value="3,-21,29,5" />
+            <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xff7f7f7f" />
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+            <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+            <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="5" />
+            <prop name="Comment" propid="Comment" type="string" value="Use Hair Color" />
+            <prop name="Children" propid="0xeec1b00b" type="object" count="1">
+              <object cls="Text" clsid="0x6f15f51b">
+                <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002013" />
+                <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0" />
+                <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+                <prop name="Area" propid="0xeec1b005" type="rectf" value="24,9,287,25" />
+                <prop name="Caption" propid="0xeec1b00a" type="string" value="Ui/Caption/CAS/Hair:Match" key="00000012:00000000:c31a4227646709ec" />
+                <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x007f7f7f" />
+                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+                <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062eae02" />
+                <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+                <prop name="TextBorder" propid="0x6f43fcce" type="struct">
+                  <struct cls="Borders" clsid="Borders">
+                    <prop name="Left" propid="1" type="float" value="0" />
+                    <prop name="Top" propid="2" type="float" value="0" />
+                    <prop name="Right" propid="3" type="float" value="0" />
+                    <prop name="Bottom" propid="4" type="float" value="0" />
+                  </struct>
+                </prop>
+                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff163996" />
+                <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
+                <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
+                <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
+              </object>
+            </prop>
+            <prop name="ButtonFlags" propid="0xeec1d002" type="uint32" value="0x00000000" />
+            <prop name="ButtonStateFlags" propid="0xeec1d001" type="uint32" value="0x00000000" />
+            <prop name="ButtonDrawable" propid="0xeec1b007" type="object">
+              <object cls="StdDrawable" clsid="0xb03c196f">
+                <prop name="Image" propid="0x0f3ac75e" type="image" count="8">
+                  <value type="image" key="2f7d0004:00000000:b1bdf0ca21252071" />
+                  <value type="image" key="2f7d0004:00000000:bf88b294490be47b" />
+                  <value type="image" key="2f7d0004:00000000:bf6c65b82e59abdc" />
+                  <value type="image" key="2f7d0004:00000000:59a0ba6a72249b84" />
+                  <value type="image" key="2f7d0004:00000000:59a0ba6a72249b84" />
+                  <value type="image" key="2f7d0004:00000000:87ec4b67d8d4850b" />
+                  <value type="image" key="2f7d0004:00000000:5d70be8a8421c8ac" />
+                  <value type="image" key="2f7d0004:00000000:248f533e04150ed4" />
+                </prop>
+                <prop name="DrawMask" propid="0x0f3c000f" type="image" count="8">
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                  <value type="image" key="" />
+                </prop>
+                <prop name="HitMask" propid="0x0f3c000d" type="hitmask" />
+                <prop name="ScaleType" propid="0xef3c000a" type="uint32" value="1" />
+                <prop name="ScaleFactor" propid="0xef3c000b" type="pointf" value="1,1" />
+                <prop name="ScaleArea" propid="0xef3c000c" type="struct">
+                  <struct cls="Borders" clsid="Borders">
+                    <prop name="Left" propid="1" type="float" value="0.333333343" />
+                    <prop name="Top" propid="2" type="float" value="0.333333343" />
+                    <prop name="Right" propid="3" type="float" value="0.333333343" />
+                    <prop name="Bottom" propid="4" type="float" value="0.333333343" />
+                  </struct>
+                </prop>
+                <prop name="GlowType" propid="0x0f3c0010" type="uint32" value="2" />
+                <prop name="GlowScale" propid="0x0f3c0012" type="pointf" value="1.33333,1.33333" />
+                <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
+              </object>
+            </prop>
+            <prop name="Alignment" propid="0xeec1d004" type="uint32" value="1" />
+            <prop name="CaptionBorder" propid="0xeec1d006" type="struct">
+              <struct cls="Borders" clsid="Borders">
+                <prop name="Left" propid="1" type="float" value="1" />
+                <prop name="Top" propid="2" type="float" value="1" />
+                <prop name="Right" propid="3" type="float" value="1" />
+                <prop name="Bottom" propid="4" type="float" value="1" />
+              </struct>
+            </prop>
+            <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
+            <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+            </prop>
+            <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="1" />
+            <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
+            <prop name="CaptionWrap" propid="0xeec1d00e" type="uint32" value="0" />
+            <prop name="ButtonType" propid="0xeec1d003" type="uint32" value="2" />
+            <prop name="ButtonGroupID" propid="0xeec1d005" type="uint32" value="0" />
+          </object>
+          <object cls="Sims3IconButton" clsid="0x062569a8">
+            <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000200b" />
+            <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbb950" />
+            <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+            <prop name="Area" propid="0xeec1b005" type="rectf" value="330,-26,362,6" />
+            <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xff7f7f7f" />
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+            <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+            <prop name="TooltipText" propid="0xeec1b00f" type="string" value="Ui/Caption/CAS/ClickOnSim:ChangeColor" key="00000012:00000000:e4bd94987b2b21d6" />
+            <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="4" />
+            <prop name="Comment" propid="Comment" type="string" value="Color" />
+            <prop name="WinProcs" propid="0xeec1b00c" type="object" count="2">
+              <object cls="SimpleLayout" clsid="0x2f418d72">
+                <prop name="Anchor" propid="0x0f3d0000" type="uint8" value="2" />
+              </object>
+              <object cls="GlowModulate" clsid="0xa03be1de">
+                <prop name="Time" propid="0x4f2b0000" type="float" value="0.23" />
+                <prop name="Trigger" propid="0x4f2b0001" type="uint32" value="4" />
+                <prop name="InterpolationType" propid="0x4f2b0002" type="uint32" value="1" />
+                <prop name="Ease-In" propid="0x4f2b0003" type="float" value="0.8" />
+                <prop name="Ease-Out" propid="0x4f2b0004" type="float" value="0" />
+                <prop name="Damping" propid="0x4f2b0005" type="float" value="0.1" />
+                <prop name="Autoloop" propid="0x4f2b0006" type="bool" value="False" />
+                <prop name="LoopType" propid="0x4f2b0007" type="uint32" value="0" />
+                <prop name="Color1" propid="0xa03be100" type="uint32" value="0x00000000" />
+                <prop name="Color2" propid="0xa03be101" type="uint32" value="0x947999d3" />
+              </object>
+            </prop>
+            <prop name="Children" propid="0xeec1b00b" type="object" count="1">
+              <object cls="Text" clsid="0x6f15f51b">
+                <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002012" />
+                <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0" />
+                <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+                <prop name="Area" propid="0xeec1b005" type="rectf" value="-120,11,-3,30" />
+                <prop name="Caption" propid="0xeec1b00a" type="string" value="Beard Color" key="00000012:00000000:aa0cb0b0e389c9b6" />
+                <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
+                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xff000591" />
+                <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062eae02" />
+                <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+                <prop name="TextBorder" propid="0x6f43fcce" type="struct">
+                  <struct cls="Borders" clsid="Borders">
+                    <prop name="Left" propid="1" type="float" value="0" />
+                    <prop name="Top" propid="2" type="float" value="0" />
+                    <prop name="Right" propid="3" type="float" value="0" />
+                    <prop name="Bottom" propid="4" type="float" value="0" />
+                  </struct>
+                </prop>
+                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xffffffff" />
+                <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="2" />
+                <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="3" />
+                <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
+              </object>
+            </prop>
+            <prop name="ButtonFlags" propid="0xeec1d002" type="uint32" value="0x00000000" />
+            <prop name="ButtonStateFlags" propid="0xeec1d001" type="uint32" value="0x00000000" />
+            <prop name="ButtonDrawable" propid="0xeec1b007" type="object">
+              <object cls="IconButtonMultiDrawable" clsid="0xb03c197f">
+                <prop name="Drawables" propid="0x0f3ac75f" type="object" count="3">
+                  <object cls="StdDrawable" clsid="0xb03c196f">
+                    <prop name="Image" propid="0x0f3ac75e" type="image" count="8">
+                      <value type="image" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                      <value type="image" key="2f7d0004:00000000:3c393d152e3305ad" />
+                      <value type="image" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                      <value type="image" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                    </prop>
+                    <prop name="DrawMask" propid="0x0f3c000f" type="image" count="8">
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                    </prop>
+                    <prop name="HitMask" propid="0x0f3c000d" type="hitmask" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                    <prop name="ScaleType" propid="0xef3c000a" type="uint32" value="1" />
+                    <prop name="ScaleFactor" propid="0xef3c000b" type="pointf" value="1,1" />
+                    <prop name="ScaleArea" propid="0xef3c000c" type="struct">
+                      <struct cls="Borders" clsid="Borders">
+                        <prop name="Left" propid="1" type="float" value="0.333333343" />
+                        <prop name="Top" propid="2" type="float" value="0.333333343" />
+                        <prop name="Right" propid="3" type="float" value="0.333333343" />
+                        <prop name="Bottom" propid="4" type="float" value="0.333333343" />
+                      </struct>
+                    </prop>
+                    <prop name="GlowType" propid="0x0f3c0010" type="uint32" value="0" />
+                    <prop name="GlowScale" propid="0x0f3c0012" type="pointf" value="1.1,1.1" />
+                    <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
+                  </object>
+                  <object cls="IconDrawable" clsid="0xbf7bfe30">
+                    <prop name="Image" propid="0x4f3c4a26" type="image" key="2f7d0004:00000000:b0fa98b5f1221159" />
+                    <prop name="AlignmentHorizontal" propid="0x4f3c4a29" type="uint32" value="3" />
+                    <prop name="AlignmentVertical" propid="0x4f3c4a28" type="uint32" value="3" />
+                    <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
+                    <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.9" />
+                    <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
+                      <value>0xffa4d4ff</value>
+                      <value>0x80bfdaff</value>
+                      <value>0xffd2eaff</value>
+                      <value>0xffffffff</value>
+                      <value>0xffffffff</value>
+                      <value>0x80bfdaff</value>
+                      <value>0xffd2eaff</value>
+                      <value>0xffffffff</value>
+                    </prop>
+                  </object>
+                  <value type="object" />
+                </prop>
+              </object>
+            </prop>
+            <prop name="Alignment" propid="0xeec1d004" type="uint32" value="1" />
+            <prop name="CaptionBorder" propid="0xeec1d006" type="struct">
+              <struct cls="Borders" clsid="Borders">
+                <prop name="Left" propid="1" type="float" value="1" />
+                <prop name="Top" propid="2" type="float" value="1" />
+                <prop name="Right" propid="3" type="float" value="1" />
+                <prop name="Bottom" propid="4" type="float" value="1" />
+              </struct>
+            </prop>
+            <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
+            <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+            </prop>
+            <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="1" />
+            <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
+            <prop name="CaptionWrap" propid="0xeec1d00e" type="uint32" value="0" />
+            <prop name="ButtonType" propid="0xeec1d003" type="uint32" value="1" />
+            <prop name="ButtonGroupID" propid="0xeec1d005" type="uint32" value="0" />
+          </object>
+          <object cls="Sims3IconButton" clsid="0x062569a8">
+            <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000200b" />
+            <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbb903" />
+            <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+            <prop name="Area" propid="0xeec1b005" type="rectf" value="65,-26,97,6" />
+            <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xff7f7f7f" />
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+            <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+            <prop name="TooltipText" propid="0xeec1b00f" type="string" value="Ui/Tooltip/CAS/Global:Delete" key="00000012:00000000:ff7fc321ab4dc300" />
+            <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="4" />
+            <prop name="Comment" propid="Comment" type="string" value="Delete" />
+            <prop name="WinProcs" propid="0xeec1b00c" type="object" count="2">
+              <object cls="SimpleLayout" clsid="0x2f418d72">
+                <prop name="Anchor" propid="0x0f3d0000" type="uint8" value="2" />
+              </object>
+              <object cls="GlowModulate" clsid="0xa03be1de">
+                <prop name="Time" propid="0x4f2b0000" type="float" value="0.23" />
+                <prop name="Trigger" propid="0x4f2b0001" type="uint32" value="4" />
+                <prop name="InterpolationType" propid="0x4f2b0002" type="uint32" value="1" />
+                <prop name="Ease-In" propid="0x4f2b0003" type="float" value="0.8" />
+                <prop name="Ease-Out" propid="0x4f2b0004" type="float" value="0" />
+                <prop name="Damping" propid="0x4f2b0005" type="float" value="0.1" />
+                <prop name="Autoloop" propid="0x4f2b0006" type="bool" value="False" />
+                <prop name="LoopType" propid="0x4f2b0007" type="uint32" value="0" />
+                <prop name="Color1" propid="0xa03be100" type="uint32" value="0x00000000" />
+                <prop name="Color2" propid="0xa03be101" type="uint32" value="0x947999d3" />
+              </object>
+            </prop>
+            <prop name="ButtonFlags" propid="0xeec1d002" type="uint32" value="0x00000000" />
+            <prop name="ButtonStateFlags" propid="0xeec1d001" type="uint32" value="0x00000000" />
+            <prop name="ButtonDrawable" propid="0xeec1b007" type="object">
+              <object cls="IconButtonMultiDrawable" clsid="0xb03c197f">
+                <prop name="Drawables" propid="0x0f3ac75f" type="object" count="3">
+                  <object cls="StdDrawable" clsid="0xb03c196f">
+                    <prop name="Image" propid="0x0f3ac75e" type="image" count="8">
+                      <value type="image" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                      <value type="image" key="2f7d0004:00000000:3c393d152e3305ad" />
+                      <value type="image" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                      <value type="image" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                    </prop>
+                    <prop name="DrawMask" propid="0x0f3c000f" type="image" count="8">
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                    </prop>
+                    <prop name="HitMask" propid="0x0f3c000d" type="hitmask" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                    <prop name="ScaleType" propid="0xef3c000a" type="uint32" value="1" />
+                    <prop name="ScaleFactor" propid="0xef3c000b" type="pointf" value="1,1" />
+                    <prop name="ScaleArea" propid="0xef3c000c" type="struct">
+                      <struct cls="Borders" clsid="Borders">
+                        <prop name="Left" propid="1" type="float" value="0.333333343" />
+                        <prop name="Top" propid="2" type="float" value="0.333333343" />
+                        <prop name="Right" propid="3" type="float" value="0.333333343" />
+                        <prop name="Bottom" propid="4" type="float" value="0.333333343" />
+                      </struct>
+                    </prop>
+                    <prop name="GlowType" propid="0x0f3c0010" type="uint32" value="0" />
+                    <prop name="GlowScale" propid="0x0f3c0012" type="pointf" value="1.1,1.1" />
+                    <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
+                  </object>
+                  <object cls="IconDrawable" clsid="0xbf7bfe30">
+                    <prop name="Image" propid="0x4f3c4a26" type="image" key="2f7d0004:00000000:dad57150de15af7b" />
+                    <prop name="AlignmentHorizontal" propid="0x4f3c4a29" type="uint32" value="3" />
+                    <prop name="AlignmentVertical" propid="0x4f3c4a28" type="uint32" value="3" />
+                    <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
+                    <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.85" />
+                    <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
+                      <value>0xffa4d4ff</value>
+                      <value>0x80bfdaff</value>
+                      <value>0xffd2eaff</value>
+                      <value>0xffffffff</value>
+                      <value>0xffffffff</value>
+                      <value>0x80bfdaff</value>
+                      <value>0xffd2eaff</value>
+                      <value>0xffffffff</value>
+                    </prop>
+                  </object>
+                  <value type="object" />
+                </prop>
+              </object>
+            </prop>
+            <prop name="Alignment" propid="0xeec1d004" type="uint32" value="1" />
+            <prop name="CaptionBorder" propid="0xeec1d006" type="struct">
+              <struct cls="Borders" clsid="Borders">
+                <prop name="Left" propid="1" type="float" value="1" />
+                <prop name="Top" propid="2" type="float" value="1" />
+                <prop name="Right" propid="3" type="float" value="1" />
+                <prop name="Bottom" propid="4" type="float" value="1" />
+              </struct>
+            </prop>
+            <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
+            <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+            </prop>
+            <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="1" />
+            <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
+            <prop name="CaptionWrap" propid="0xeec1d00e" type="uint32" value="0" />
+            <prop name="ButtonType" propid="0xeec1d003" type="uint32" value="1" />
+            <prop name="ButtonGroupID" propid="0xeec1d005" type="uint32" value="0" />
+          </object>
+          <object cls="Sims3IconButton" clsid="0x062569a8">
+            <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000200b" />
+            <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05dbb90e" />
+            <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+            <prop name="Area" propid="0xeec1b005" type="rectf" value="99,-26,131,6" />
+            <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xff7f7f7f" />
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+            <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+            <prop name="TooltipText" propid="0xeec1b00f" type="string" value="Ui/Tooltip/CAS/Global:Share" key="00000012:00000000:a89dd0c932b1ac7e" />
+            <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="4" />
+            <prop name="Comment" propid="Comment" type="string" value="Share" />
+            <prop name="WinProcs" propid="0xeec1b00c" type="object" count="2">
+              <object cls="SimpleLayout" clsid="0x2f418d72">
+                <prop name="Anchor" propid="0x0f3d0000" type="uint8" value="2" />
+              </object>
+              <object cls="GlowModulate" clsid="0xa03be1de">
+                <prop name="Time" propid="0x4f2b0000" type="float" value="0.23" />
+                <prop name="Trigger" propid="0x4f2b0001" type="uint32" value="4" />
+                <prop name="InterpolationType" propid="0x4f2b0002" type="uint32" value="1" />
+                <prop name="Ease-In" propid="0x4f2b0003" type="float" value="0.8" />
+                <prop name="Ease-Out" propid="0x4f2b0004" type="float" value="0" />
+                <prop name="Damping" propid="0x4f2b0005" type="float" value="0.1" />
+                <prop name="Autoloop" propid="0x4f2b0006" type="bool" value="False" />
+                <prop name="LoopType" propid="0x4f2b0007" type="uint32" value="0" />
+                <prop name="Color1" propid="0xa03be100" type="uint32" value="0x00000000" />
+                <prop name="Color2" propid="0xa03be101" type="uint32" value="0x947999d3" />
+              </object>
+            </prop>
+            <prop name="ButtonFlags" propid="0xeec1d002" type="uint32" value="0x00000000" />
+            <prop name="ButtonStateFlags" propid="0xeec1d001" type="uint32" value="0x00000000" />
+            <prop name="ButtonDrawable" propid="0xeec1b007" type="object">
+              <object cls="IconButtonMultiDrawable" clsid="0xb03c197f">
+                <prop name="Drawables" propid="0x0f3ac75f" type="object" count="3">
+                  <object cls="StdDrawable" clsid="0xb03c196f">
+                    <prop name="Image" propid="0x0f3ac75e" type="image" count="8">
+                      <value type="image" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                      <value type="image" key="2f7d0004:00000000:3c393d152e3305ad" />
+                      <value type="image" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                      <value type="image" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                    </prop>
+                    <prop name="DrawMask" propid="0x0f3c000f" type="image" count="8">
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                      <value type="image" key="" />
+                    </prop>
+                    <prop name="HitMask" propid="0x0f3c000d" type="hitmask" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                    <prop name="ScaleType" propid="0xef3c000a" type="uint32" value="1" />
+                    <prop name="ScaleFactor" propid="0xef3c000b" type="pointf" value="1,1" />
+                    <prop name="ScaleArea" propid="0xef3c000c" type="struct">
+                      <struct cls="Borders" clsid="Borders">
+                        <prop name="Left" propid="1" type="float" value="0.333333343" />
+                        <prop name="Top" propid="2" type="float" value="0.333333343" />
+                        <prop name="Right" propid="3" type="float" value="0.333333343" />
+                        <prop name="Bottom" propid="4" type="float" value="0.333333343" />
+                      </struct>
+                    </prop>
+                    <prop name="GlowType" propid="0x0f3c0010" type="uint32" value="0" />
+                    <prop name="GlowScale" propid="0x0f3c0012" type="pointf" value="1.1,1.1" />
+                    <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
+                  </object>
+                  <object cls="IconDrawable" clsid="0xbf7bfe30">
+                    <prop name="Image" propid="0x4f3c4a26" type="image" key="2f7d0004:00000000:4bd2e769c84318b1" />
+                    <prop name="AlignmentHorizontal" propid="0x4f3c4a29" type="uint32" value="3" />
+                    <prop name="AlignmentVertical" propid="0x4f3c4a28" type="uint32" value="3" />
+                    <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
+                    <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.85" />
+                    <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
+                      <value>0xffa4d4ff</value>
+                      <value>0x80bfdaff</value>
+                      <value>0xffd2eaff</value>
+                      <value>0xffffffff</value>
+                      <value>0xffffffff</value>
+                      <value>0x80bfdaff</value>
+                      <value>0xffd2eaff</value>
+                      <value>0xffffffff</value>
+                    </prop>
+                  </object>
+                  <value type="object" />
+                </prop>
+              </object>
+            </prop>
+            <prop name="Alignment" propid="0xeec1d004" type="uint32" value="1" />
+            <prop name="CaptionBorder" propid="0xeec1d006" type="struct">
+              <struct cls="Borders" clsid="Borders">
+                <prop name="Left" propid="1" type="float" value="1" />
+                <prop name="Top" propid="2" type="float" value="1" />
+                <prop name="Right" propid="3" type="float" value="1" />
+                <prop name="Bottom" propid="4" type="float" value="1" />
+              </struct>
+            </prop>
+            <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
+            <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+              <value>0xff000000</value>
+            </prop>
+            <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="1" />
+            <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
+            <prop name="CaptionWrap" propid="0xeec1d00e" type="uint32" value="0" />
+            <prop name="ButtonType" propid="0xeec1d003" type="uint32" value="1" />
+            <prop name="ButtonGroupID" propid="0xeec1d005" type="uint32" value="0" />
+          </object>
+        </prop>
+      </object>
+    </prop>
+    <prop name="CustomControlFlags" propid="0x03aa2001" type="uint32" value="0x00000001" />
+    <prop name="CustomControlID" propid="0x03aa2000" type="uint32" value="0x05dbbd18" />
+  </object>
+</graph>

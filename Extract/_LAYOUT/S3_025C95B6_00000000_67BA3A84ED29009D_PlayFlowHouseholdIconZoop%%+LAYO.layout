@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<graph class="Layout" type="Layout">
+  <object cls="Sims3CustomWindow" clsid="0x03aa4128" id="0x00000001">
+    <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002012" />
+    <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0" />
+    <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+    <prop name="Area" propid="0xeec1b005" type="rectf" value="0,0,1024,768" />
+    <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
+    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+    <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+    <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+    <prop name="WinProcs" propid="0xeec1b00c" type="object" count="1">
+      <object cls="HudLayout" clsid="0x1c9302dd">
+        <prop name="Anchor" propid="0x0f3d0000" type="uint8" value="15" />
+        <prop name="Dimensions" propid="0x0f3d0001" type="pointf" value="1024,768" />
+      </object>
+    </prop>
+    <prop name="Children" propid="0xeec1b00b" type="object" count="1">
+      <object cls="Window" clsid="0x4ec1b8d8">
+        <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002012" />
+        <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x000bf001" />
+        <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+        <prop name="Area" propid="0xeec1b005" type="rectf" value="0,0,128,128" />
+        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
+        <prop name="FillDrawable" propid="0xeec1b007" type="object">
+          <object cls="ImageDrawable" clsid="0xcf3c4eae">
+            <prop name="Image" propid="0x4f3c4a26" type="image" key="2f7d0004:00000000:79635235b4d214d2" />
+            <prop name="AlignmentHorizontal" propid="0x4f3c4a29" type="uint32" value="3" />
+            <prop name="AlignmentVertical" propid="0x4f3c4a28" type="uint32" value="3" />
+            <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000000" />
+            <prop name="Tiling" propid="0x4f3c4a2a" type="uint32" value="0" />
+            <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
+          </object>
+        </prop>
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+        <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+        <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+        <prop name="Comment" propid="Comment" type="string" value="Icon" />
+        <prop name="WinProcs" propid="0xeec1b00c" type="object" count="3">
+          <object cls="Glide" clsid="0xcf2b2ad4">
+            <prop name="Time" propid="0x4f2b0000" type="float" value="0.5" />
+            <prop name="Trigger" propid="0x4f2b0001" type="uint32" value="12" />
+            <prop name="InterpolationType" propid="0x4f2b0002" type="uint32" value="2" />
+            <prop name="Ease-In" propid="0x4f2b0003" type="float" value="0.2" />
+            <prop name="Ease-Out" propid="0x4f2b0004" type="float" value="0" />
+            <prop name="Damping" propid="0x4f2b0005" type="float" value="11" />
+            <prop name="Autoloop" propid="0x4f2b0006" type="bool" value="False" />
+            <prop name="LoopType" propid="0x4f2b0007" type="uint32" value="0" />
+            <prop name="Offset" propid="0x4f2c0000" type="pointf" value="100,200" />
+          </object>
+          <object cls="Fade" clsid="0x6f2b6d2c">
+            <prop name="Time" propid="0x4f2b0000" type="float" value="0.25" />
+            <prop name="Trigger" propid="0x4f2b0001" type="uint32" value="12" />
+            <prop name="InterpolationType" propid="0x4f2b0002" type="uint32" value="1" />
+            <prop name="Ease-In" propid="0x4f2b0003" type="float" value="0.5" />
+            <prop name="Ease-Out" propid="0x4f2b0004" type="float" value="5" />
+            <prop name="Damping" propid="0x4f2b0005" type="float" value="0" />
+            <prop name="Autoloop" propid="0x4f2b0006" type="bool" value="False" />
+            <prop name="LoopType" propid="0x4f2b0007" type="uint32" value="0" />
+          </object>
+          <object cls="Grow" clsid="0x03ec1bf4">
+            <prop name="Time" propid="0x4f2b0000" type="float" value="0.5" />
+            <prop name="Trigger" propid="0x4f2b0001" type="uint32" value="12" />
+            <prop name="InterpolationType" propid="0x4f2b0002" type="uint32" value="2" />
+            <prop name="Ease-In" propid="0x4f2b0003" type="float" value="0" />
+            <prop name="Ease-Out" propid="0x4f2b0004" type="float" value="0" />
+            <prop name="Damping" propid="0x4f2b0005" type="float" value="9" />
+            <prop name="Autoloop" propid="0x4f2b0006" type="bool" value="False" />
+            <prop name="LoopType" propid="0x4f2b0007" type="uint32" value="0" />
+            <prop name="Boundary Change Rect" propid="0x2a6d0000" type="struct">
+              <struct cls="Borders" clsid="Borders">
+                <prop name="Left" propid="1" type="float" value="0" />
+                <prop name="Top" propid="2" type="float" value="0" />
+                <prop name="Right" propid="3" type="float" value="128" />
+                <prop name="Bottom" propid="4" type="float" value="128" />
+              </struct>
+            </prop>
+          </object>
+        </prop>
+      </object>
+    </prop>
+    <prop name="CustomControlFlags" propid="0x03aa2001" type="uint32" value="0x00000001" />
+    <prop name="CustomControlID" propid="0x03aa2000" type="uint32" value="0x06f87300" />
+  </object>
+</graph>

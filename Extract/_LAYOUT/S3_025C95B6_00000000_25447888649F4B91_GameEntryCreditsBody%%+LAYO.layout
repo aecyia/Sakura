@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<graph class="Layout" type="Layout">
+  <object cls="Text" clsid="0x6f15f51b" id="0x00000001">
+    <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002013" />
+    <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0" />
+    <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+    <prop name="Area" propid="0xeec1b005" type="rectf" value="0,0,0,0" />
+    <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
+    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+    <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062ead04" />
+    <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+    <prop name="WinProcs" propid="0xeec1b00c" type="object" count="1">
+      <object cls="SimpleLayout" clsid="0x2f418d72">
+        <prop name="Anchor" propid="0x0f3d0000" type="uint8" value="13" />
+      </object>
+    </prop>
+    <prop name="TextBorder" propid="0x6f43fcce" type="struct">
+      <struct cls="Borders" clsid="Borders">
+        <prop name="Left" propid="1" type="float" value="0" />
+        <prop name="Top" propid="2" type="float" value="0" />
+        <prop name="Right" propid="3" type="float" value="0" />
+        <prop name="Bottom" propid="4" type="float" value="0" />
+      </struct>
+    </prop>
+    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+    <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
+    <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
+    <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="4" />
+  </object>
+</graph>

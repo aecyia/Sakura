@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<graph class="Layout" type="Layout">
+  <object cls="Sims3CustomDialog" clsid="0x03aa4148">
+    <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000001f" />
+    <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x04b347b0" />
+    <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+    <prop name="Area" propid="0xeec1b005" type="rectf" value="68,137,267,244" />
+    <prop name="Caption" propid="0xeec1b00a" type="string" value="Display Panel" />
+    <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xffffffff" />
+    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0x00000000" />
+    <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+    <prop name="Children" propid="0xeec1b00b" type="object" count="1">
+      <object cls="Text" clsid="0x6f15f51b">
+        <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00000012" />
+        <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x0490f409" />
+        <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+        <prop name="Area" propid="0xeec1b005" type="rectf" value="1,5,201,99" />
+        <prop name="Caption" propid="0xeec1b00a" type="string" value="Display Panel Text" />
+        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x2dcccccc" />
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+        <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+        <prop name="TextBorder" propid="0x6f43fcce" type="struct">
+          <struct cls="Borders" clsid="Borders">
+            <prop name="Left" propid="1" type="float" value="0" />
+            <prop name="Top" propid="2" type="float" value="0" />
+            <prop name="Right" propid="3" type="float" value="0" />
+            <prop name="Bottom" propid="4" type="float" value="0" />
+          </struct>
+        </prop>
+        <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xffffffff" />
+        <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
+        <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
+        <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
+      </object>
+    </prop>
+    <prop name="DialogFlags" propid="0xeec2a002" type="uint32" value="0x00000003" />
+    <prop name="DialogDrawable" propid="0xeec1b007" type="object">
+      <object cls="DialogDrawable" clsid="0x6f0c7aea">
+        <prop name="BackgroundFillColor" propid="0x2f42e1a2" type="uint32" value="0xff7f7f7f" />
+        <prop name="BackImageBlitMode" propid="0x2f42e1a3" type="uint32" value="0" />
+        <prop name="Images" propid="0x2f42e1a1" type="image" count="10">
+          <value type="image" key="" />
+          <value type="image" key="" />
+          <value type="image" key="" />
+          <value type="image" key="" />
+          <value type="image" key="" />
+          <value type="image" key="" />
+          <value type="image" key="" />
+          <value type="image" key="" />
+          <value type="image" key="" />
+          <value type="image" key="" />
+        </prop>
+      </object>
+    </prop>
+    <prop name="CloseButtonDrawable" propid="0xeec2a001" type="object">
+      <object cls="ButtonDrawableStandard" clsid="0xaf3a9e26">
+        <prop name="Tileable" propid="0xef3c000a" type="bool" value="False" />
+      </object>
+    </prop>
+    <prop name="BackgroundColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
+    <prop name="MinWidth" propid="0xeec2a009" type="float" value="0" />
+    <prop name="MinHeight" propid="0xeec2a00a" type="float" value="0" />
+    <prop name="MaxWidth" propid="0xeec2a00b" type="float" value="10000" />
+    <prop name="MaxHeight" propid="0xeec2a00c" type="float" value="10000" />
+    <prop name="ClientAreaBorder" propid="0xeec2a003" type="struct">
+      <struct cls="Borders" clsid="Borders">
+        <prop name="Left" propid="1" type="float" value="3" />
+        <prop name="Top" propid="2" type="float" value="3" />
+        <prop name="Right" propid="3" type="float" value="3" />
+        <prop name="Bottom" propid="4" type="float" value="3" />
+      </struct>
+    </prop>
+    <prop name="CloseButtonBorder" propid="0xeec2a004" type="struct">
+      <struct cls="Borders" clsid="Borders">
+        <prop name="Left" propid="1" type="float" value="3" />
+        <prop name="Top" propid="2" type="float" value="3" />
+        <prop name="Right" propid="3" type="float" value="3" />
+        <prop name="Bottom" propid="4" type="float" value="3" />
+      </struct>
+    </prop>
+    <prop name="TitleText" propid="0xeec2a005" type="string" value="Blah" />
+    <prop name="TitleTextStyle" propid="0xeec2a006" type="uint32" value="0xacbf4564" />
+    <prop name="TitleTextColor" propid="0xeec2a007" type="uint32" value="0x2dcccccc" />
+    <prop name="TitleTextBorder" propid="0xeec2a008" type="struct">
+      <struct cls="Borders" clsid="Borders">
+        <prop name="Left" propid="1" type="float" value="3" />
+        <prop name="Top" propid="2" type="float" value="0" />
+        <prop name="Right" propid="3" type="float" value="0" />
+        <prop name="Bottom" propid="4" type="float" value="0" />
+      </struct>
+    </prop>
+    <prop name="CustomControlID" propid="0x03aa2000" type="uint32" value="0x04b347b0" />
+  </object>
+</graph>

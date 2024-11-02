@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<graph class="Layout" type="Layout">
+  <object cls="Button" clsid="0xeeefe2c3" id="0x00000008">
+    <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x0000200b" />
+    <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x00000008" />
+    <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+    <prop name="Area" propid="0xeec1b005" type="rectf" value="0,21,0,21" />
+    <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xff7f7f7f" />
+    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+    <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
+    <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="2" />
+    <prop name="ButtonFlags" propid="0xeec1d002" type="uint32" value="0x00000000" />
+    <prop name="ButtonStateFlags" propid="0xeec1d001" type="uint32" value="0x00000000" />
+    <prop name="ButtonDrawable" propid="0xeec1b007" type="object">
+      <object cls="ImageDrawable" clsid="0xcf3c4eae">
+        <prop name="AlignmentHorizontal" propid="0x4f3c4a29" type="uint32" value="3" />
+        <prop name="AlignmentVertical" propid="0x4f3c4a28" type="uint32" value="3" />
+        <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000000" />
+        <prop name="Tiling" propid="0x4f3c4a2a" type="uint32" value="0" />
+        <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
+      </object>
+    </prop>
+    <prop name="Alignment" propid="0xeec1d004" type="uint32" value="1" />
+    <prop name="CaptionBorder" propid="0xeec1d006" type="struct">
+      <struct cls="Borders" clsid="Borders">
+        <prop name="Left" propid="1" type="float" value="1" />
+        <prop name="Top" propid="2" type="float" value="1" />
+        <prop name="Right" propid="3" type="float" value="1" />
+        <prop name="Bottom" propid="4" type="float" value="1" />
+      </struct>
+    </prop>
+    <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
+    <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
+      <value>0xff000000</value>
+      <value>0xff000000</value>
+      <value>0xff000000</value>
+      <value>0xff000000</value>
+      <value>0xff000000</value>
+      <value>0xff000000</value>
+      <value>0xff000000</value>
+      <value>0xff000000</value>
+    </prop>
+    <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="1" />
+    <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
+    <prop name="ButtonType" propid="0xeec1d003" type="uint32" value="1" />
+    <prop name="ButtonGroupID" propid="0xeec1d005" type="uint32" value="0" />
+  </object>
+  <object cls="Text" clsid="0x6f15f51b" id="0x00000009">
+    <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00002003" />
+    <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x00000009" />
+    <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
+    <prop name="Area" propid="0xeec1b005" type="rectf" value="1,43,101,63" />
+    <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
+    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
+    <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062ead04" />
+    <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
+    <prop name="TextBorder" propid="0x6f43fcce" type="struct">
+      <struct cls="Borders" clsid="Borders">
+        <prop name="Left" propid="1" type="float" value="0" />
+        <prop name="Top" propid="2" type="float" value="0" />
+        <prop name="Right" propid="3" type="float" value="0" />
+        <prop name="Bottom" propid="4" type="float" value="0" />
+      </struct>
+    </prop>
+    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xffb2d9ff" />
+    <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
+    <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="3" />
+    <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="4" />
+  </object>
+</graph>
