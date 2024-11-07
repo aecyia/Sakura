@@ -51,6 +51,7 @@ This project aims to recolour the UI, redesign icons, and more ♡
 ## ♡
 
 - Aesthetic -- Pink > Blue > Purple > Green
+- Follows the folder structure of [TS3-Starter-UI](https://github.com/VMPYRC/TS3-Starter-UI)
 - Original tumblr [post](https://simmanity.tumblr.com/post/695785491609632768/sakura)
 - More screenshots in [these discussions](https://github.com/aecyia/Sakura/discussions/)
 - ModTheSims upload [submission](https://modthesims.info/d/673792)
