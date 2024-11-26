@@ -73,8 +73,10 @@
                 <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
                 <prop name="Comment" propid="Comment" type="string" value="Name" />
                 <prop name="LayoutName" propid="0x05d16472" type="string" value="TableThumbAndText" />
-                <prop name="HeaderCaptionId" propid="0x05d16473" type="string" value="Ui/Caption/ResortExpenseDialog/Column:ObjectName" />
-                <prop name="HeaderToolTipId" propid="0x05d16474" type="string" value="Ui/Caption/ResortExpenseDialog/Column:ObjectName" />
+                <prop name="HeaderCaptionId" propid="0x05d16473" type="string"
+                  value="Ui/Caption/ResortExpenseDialog/Column:ObjectName" />
+                <prop name="HeaderToolTipId" propid="0x05d16474" type="string"
+                  value="Ui/Caption/ResortExpenseDialog/Column:ObjectName" />
                 <prop name="Sortable" propid="0x05d16475" type="bool" value="True" />
               </object>
               <object cls="ColumnControl" clsid="0x05d16471">
@@ -85,8 +87,10 @@
                 <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
                 <prop name="Comment" propid="Comment" type="string" value="Type" />
                 <prop name="LayoutName" propid="0x05d16472" type="string" value="TableTextCenter" />
-                <prop name="HeaderCaptionId" propid="0x05d16473" type="string" value="Ui/Caption/ResortExpenseDialog/Column:Type" />
-                <prop name="HeaderToolTipId" propid="0x05d16474" type="string" value="Ui/Caption/ResortExpenseDialog/Column:Type" />
+                <prop name="HeaderCaptionId" propid="0x05d16473" type="string"
+                  value="Ui/Caption/ResortExpenseDialog/Column:Type" />
+                <prop name="HeaderToolTipId" propid="0x05d16474" type="string"
+                  value="Ui/Caption/ResortExpenseDialog/Column:Type" />
                 <prop name="Sortable" propid="0x05d16475" type="bool" value="True" />
               </object>
             </prop>
@@ -155,7 +159,8 @@
             <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
             <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
-            <prop name="TooltipText" propid="0xeec1b00f" type="string" value="Ui/Tooltip/Global:Close" key="00000012:00000000:b799698fc1bafa2d" />
+            <prop name="TooltipText" propid="0xeec1b00f" type="string"
+              value="Ui/Tooltip/Global:Close" key="00000012:00000000:b799698fc1bafa2d" />
             <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="4" />
             <prop name="Comment" propid="Comment" type="string" value="Close button" />
             <prop name="WinProcs" propid="0xeec1b00c" type="object" count="2">
@@ -204,7 +209,8 @@
                       <value type="image" key="" />
                       <value type="image" key="" />
                     </prop>
-                    <prop name="HitMask" propid="0x0f3c000d" type="hitmask" key="2f7d0004:00000000:3ed2a54642c2aa4b" />
+                    <prop name="HitMask" propid="0x0f3c000d" type="hitmask"
+                      key="2f7d0004:00000000:3ed2a54642c2aa4b" />
                     <prop name="ScaleType" propid="0xef3c000a" type="uint32" value="1" />
                     <prop name="ScaleFactor" propid="0xef3c000b" type="pointf" value="1,1" />
                     <prop name="ScaleArea" propid="0xef3c000c" type="struct">
@@ -220,19 +226,21 @@
                     <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
                   </object>
                   <object cls="IconDrawable" clsid="0xbf7bfe30">
-                    <prop name="Image" propid="0x4f3c4a26" type="image" key="2f7d0004:00000000:0051e730ccaecc5e" />
+                    <prop name="Image" propid="0x4f3c4a26" type="image"
+                      key="2f7d0004:00000000:0051e730ccaecc5e" />
                     <prop name="AlignmentHorizontal" propid="0x4f3c4a29" type="uint32" value="3" />
                     <prop name="AlignmentVertical" propid="0x4f3c4a28" type="uint32" value="3" />
-                    <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000000" />
+                    <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32"
+                      value="0x00000000" />
                     <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                       <value>0xFFFFFFFF</value>
                       <value>0x80bfdaff</value>
-                      <value>0xffd2eaff</value>
+                      <value>0xFF00FFFF</value>
                       <value>0xffffffff</value>
                       <value>0xffffffff</value>
                       <value>0x80bfdaff</value>
-                      <value>0xffd2eaff</value>
+                      <value>0xFF00FFFF</value>
                       <value>0xffffffff</value>
                     </prop>
                   </object>
@@ -271,8 +279,10 @@
             <prop name="WindowFlags" propid="0xeec1b000" type="uint32" value="0x00000003" />
             <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x00000001" />
             <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
-            <prop name="Area" propid="0xeec1b005" type="rectf" value="27.00002,29.00006,-39.99998,114.0001" />
-            <prop name="Caption" propid="0xeec1b00a" type="string" value="Title" key="00000012:00000000:81a77f4aeeb89690" />
+            <prop name="Area" propid="0xeec1b005" type="rectf"
+              value="27.00002,29.00006,-39.99998,114.0001" />
+            <prop name="Caption" propid="0xeec1b00a" type="string" value="Title"
+              key="00000012:00000000:81a77f4aeeb89690" />
             <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
             <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062eae0d" />
