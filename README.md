@@ -35,6 +35,16 @@ This project aims to recolour the UI, redesign icons, and more
   - Manual edits through a digital art software, and not through scripted / batch actions
     - As a result, some visuals may appear as their default image. Please report any issues [here](https://github.com/aecyia/Sakura/issues) ♡
 
+## Terms of Usage
+
+Uploading terms:
+- Do not upload to the Sims 3 Exchange.
+
+General terms:
+- Please give credit with a link when using my work.
+- Ask me first before modifying/using.
+- Let me know if you use my work.
+
 ## ♡
 
 - Aesthetic -- Pink > Blue > Purple > Green
