@@ -121,7 +121,7 @@
                 <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
                 <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
                 <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
-                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
                 <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
                 <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
@@ -204,7 +204,7 @@
                 <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
                 <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
                 <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
-                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
                 <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
                 <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
@@ -301,11 +301,11 @@
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                       <value>0xffa4d4ff</value>
                       <value>0x80bfdaff</value>
-                      <value>0xffd2eaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                       <value>0xffffffff</value>
                       <value>0x80bfdaff</value>
-                      <value>0xffd2eaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                     </prop>
                   </object>
@@ -443,11 +443,11 @@
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                       <value>0xffa4d4ff</value>
                       <value>0x80bfdaff</value>
-                      <value>0xffd2eaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                       <value>0xffffffff</value>
                       <value>0x80bfdaff</value>
-                      <value>0xffd2eaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                     </prop>
                   </object>
@@ -1331,7 +1331,7 @@
                 <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
                 <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
                 <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
-                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
                 <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
                 <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
@@ -1364,7 +1364,7 @@
                 <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
                 <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
                 <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
-                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
                 <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
                 <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
@@ -1397,7 +1397,7 @@
                 <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
                 <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
                 <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
-                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
                 <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
                 <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
@@ -1430,7 +1430,7 @@
                 <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
                 <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
                 <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
-                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
                 <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
                 <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
@@ -1527,7 +1527,7 @@
                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                   <value>0xff002d74</value>
                   <value>0xff808fa9</value>
-                  <value>0xffe5ffff</value>
+                  <value>0xFFFFFFFF</value>
                   <value>0xffffffff</value>
                   <value>0xffffffff</value>
                   <value>0xff808fa9</value>
@@ -1641,7 +1641,7 @@
                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                   <value>0xff002d74</value>
                   <value>0xff808fa9</value>
-                  <value>0xffe5ffff</value>
+                  <value>0xFFFFFFFF</value>
                   <value>0xffffffff</value>
                   <value>0xffffffff</value>
                   <value>0xff808fa9</value>

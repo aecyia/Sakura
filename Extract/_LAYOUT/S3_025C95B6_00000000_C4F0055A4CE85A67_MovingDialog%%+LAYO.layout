@@ -2293,7 +2293,7 @@
                             <prop name="GridLines" propid="0x05820905" type="bool" value="False" />
                             <prop name="UseCellColors" propid="0x0582090d" type="bool" value="True" />
                             <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
-                            <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0xffd2ebf7" />
+                            <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0xFFFFFFFF" />
                             <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffffffd9" />
                             <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xfff3fcff" />
                             <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
@@ -2493,11 +2493,11 @@
                                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                                   <value>0xffa4d4ff</value>
                                   <value>0x80bfdaff</value>
-                                  <value>0xffd2eaff</value>
+                                  <value>0xFFFFFFFF</value>
                                   <value>0xffffffff</value>
                                   <value>0xffffffff</value>
                                   <value>0x80bfdaff</value>
-                                  <value>0xffd2eaff</value>
+                                  <value>0xFFFFFFFF</value>
                                   <value>0xffffffff</value>
                                 </prop>
                               </object>
@@ -3124,11 +3124,11 @@
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                               <value>0xffa4d4ff</value>
                               <value>0x80bfdaff</value>
-                              <value>0xffd2eaff</value>
+                              <value>0xFFFFFFFF</value>
                               <value>0xffffffff</value>
                               <value>0xffffffff</value>
                               <value>0x80bfdaff</value>
-                              <value>0xffd2eaff</value>
+                              <value>0xFFFFFFFF</value>
                               <value>0xffffffff</value>
                             </prop>
                           </object>
@@ -3448,7 +3448,7 @@
                         <prop name="GridLines" propid="0x05820905" type="bool" value="False" />
                         <prop name="UseCellColors" propid="0x0582090d" type="bool" value="True" />
                         <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
-                        <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0xffd2ebf7" />
+                        <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0xFFFFFFFF" />
                         <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffffffd9" />
                         <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xfff3fcff" />
                         <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0xffffffff" />
