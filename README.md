@@ -4,13 +4,7 @@
 
 # Sakura ♡
 
-Play The Sims 3 ?
-
-Tired of the blue UI ?
-
-Want a pink one ?
-
-This project aims to recolour the UI, redesign icons, and more
+A Pink UI for The Sims 3
 
 ![Sakura](Sakura.png)
 
