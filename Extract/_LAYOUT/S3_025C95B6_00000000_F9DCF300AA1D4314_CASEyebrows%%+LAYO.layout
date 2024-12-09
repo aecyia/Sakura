@@ -93,7 +93,7 @@
         <prop name="Area" propid="0xeec1b005" type="rectf" value="85,35,345,69" />
         <prop name="Caption" propid="0xeec1b00a" type="string" value="Ui/Tooltip/CAS/Physical:BrowsLashes" key="00000012:00000000:64482198ed02e224" />
         <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
-        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xff163996" />
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFF6699" />
         <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062eae01" />
         <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
         <prop name="TextBorder" propid="0x6f43fcce" type="struct">
@@ -528,7 +528,7 @@
                 <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
               </object>
             </prop>
-            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xff163996" />
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFF6699" />
             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
             <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
             <prop name="Comment" propid="Comment" type="string" value="Long" />
@@ -549,7 +549,7 @@
                 <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
               </object>
             </prop>
-            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xff163996" />
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFF6699" />
             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
             <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
             <prop name="Comment" propid="Comment" type="string" value="Short" />
@@ -984,7 +984,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff163996" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFFFF6699" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
