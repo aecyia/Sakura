@@ -623,7 +623,7 @@
         <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x05ef6bd1" />
         <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
         <prop name="Area" propid="0xeec1b005" type="rectf" value="-69,-69,-13,-13" />
-        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xFFFF6699" />
+        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xff7f7f7f" />
         <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
         <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
         <prop name="TooltipText" propid="0xeec1b00f" type="string" value="Ui/Caption/Global:Accept" key="00000012:00000000:48329860013c9f3c" />
@@ -972,7 +972,7 @@
       </struct>
     </prop>
     <prop name="TitleTextStyle" propid="0xeec2a006" type="uint32" value="0x03cc86e4" />
-    <prop name="TitleTextColor" propid="0xeec2a007" type="uint32" value="0xFFFF6699" />
+    <prop name="TitleTextColor" propid="0xeec2a007" type="uint32" value="0xff000000" />
     <prop name="TitleTextBorder" propid="0xeec2a008" type="struct">
       <struct cls="Borders" clsid="Borders">
         <prop name="Left" propid="1" type="float" value="3" />

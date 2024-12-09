@@ -45,7 +45,7 @@
         <prop name="Area" propid="0xeec1b005" type="rectf" value="85,36,345,52" />
         <prop name="Caption" propid="0xeec1b00a" type="string" value="Ui/Caption/CAS/Hair:Title" key="00000012:00000000:97728e67c2ec10d1" />
         <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
-        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xff163996" />
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFF6699" />
         <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062eae01" />
         <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
         <prop name="TextBorder" propid="0x6f43fcce" type="struct">
@@ -666,7 +666,7 @@
                 <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                 <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                  <value>0xff002d74</value>
+                  <value>0xFFFF6699</value>
                   <value>0xff808fa9</value>
                   <value>0xFFFFFFFF</value>
                   <value>0xffffffff</value>
@@ -784,7 +784,7 @@
                 <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                 <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                  <value>0xff002d74</value>
+                  <value>0xFFFF6699</value>
                   <value>0xff808fa9</value>
                   <value>0xFFFFFFFF</value>
                   <value>0xffffffff</value>
@@ -1037,9 +1037,9 @@
                 <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                 <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.65" />
                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                  <value>0xff002d74</value>
+                  <value>0xFFFF6699</value>
                   <value>0xff808fa9</value>
-                  <value>0xff002d74</value>
+                  <value>0xFFFF6699</value>
                   <value>0xffffffff</value>
                   <value>0xffffffff</value>
                   <value>0xff808fa9</value>
@@ -1166,11 +1166,11 @@
                     <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.75" />
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                       <value>0xffa4d4ff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                       <value>0xffffffff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                     </prop>
@@ -1382,11 +1382,11 @@
                     <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.85" />
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                       <value>0xffa4d4ff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                       <value>0xffffffff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                     </prop>
@@ -1499,11 +1499,11 @@
                     <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.85" />
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                       <value>0xffa4d4ff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                       <value>0xffffffff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                     </prop>
@@ -1670,11 +1670,11 @@
                     <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.85" />
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                       <value>0xffa4d4ff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                       <value>0xffffffff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                     </prop>
@@ -1790,11 +1790,11 @@
                     <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.85" />
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                       <value>0xffa4d4ff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                       <value>0xffffffff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                     </prop>
@@ -1936,11 +1936,11 @@
                     <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.9" />
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                       <value>0xffa4d4ff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                       <value>0xffffffff</value>
-                      <value>0x80bfdaff</value>
+                      <value>0xFFFFFFFF</value>
                       <value>0xFFFFFFFF</value>
                       <value>0xffffffff</value>
                     </prop>

@@ -88,7 +88,7 @@
             <prop name="Area" propid="0xeec1b005" type="rectf" value="-3,18,440,36" />
             <prop name="Caption" propid="0xeec1b00a" type="string" value="Title" key="00000012:00000000:81a77f4aeeb89690" />
             <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
-            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xff0b246e" />
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFF6699" />
             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062eae00" />
             <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
             <prop name="TextBorder" propid="0x6f43fcce" type="struct">
@@ -496,7 +496,7 @@
                 <prop name="Bottom" propid="4" type="float" value="0" />
               </struct>
             </prop>
-            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFFFF6699" />
             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="0" />
             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -581,9 +581,9 @@
                 <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                 <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.85" />
                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                  <value>0xff002d74</value>
+                  <value>0xFFFF6699</value>
                   <value>0xff7a89a2</value>
-                  <value>0xff002d74</value>
+                  <value>0xFFFF6699</value>
                   <value>0xffffffff</value>
                   <value>0xffffffff</value>
                   <value>0xffffffff</value>
@@ -698,9 +698,9 @@
                 <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                 <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.9" />
                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                  <value>0xff002d74</value>
+                  <value>0xFFFF6699</value>
                   <value>0xff7a89a2</value>
-                  <value>0xff002d74</value>
+                  <value>0xFFFF6699</value>
                   <value>0xffffffff</value>
                   <value>0xffffffff</value>
                   <value>0xffffffff</value>
