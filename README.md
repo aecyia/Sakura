@@ -20,7 +20,7 @@ A Pink UI for The Sims 3
 
 ## Warnings
 
-- Only use one recolour mod at a time! This will conflict with any other mod that changes the UI image assets and LAYOUT files. You can prioritize via "Resource.cfg" in your Mods folder.
+- Only use one recolour mod at a time! This will conflict with any other mod that changes the UI image assets and LAYOUT files. You can prioritize via "Resource.cfg" in your Mods folder. A known conflict is NraasPortraitPanel; I wrote a guide [here](https://www.tumblr.com/simmanity/769176027071168512/) regarding this.
 - The colours may appear different based on your computer’s brightness and colour settings. Especially when taking screenshots, it may come out as super saturated.
 - Sakura is built using
   - Steam version
